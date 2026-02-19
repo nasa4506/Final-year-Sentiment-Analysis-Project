@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+torch
+transformers
+librosa
+numpy
+scipy
+pillow
+opencv-python
+moviepy
+SpeechRecognition
