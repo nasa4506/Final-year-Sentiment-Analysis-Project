@@ -12,8 +12,8 @@ def predict_fused_sentiment(text=None, audio_bytes=None, image=None):
     # 1. Text Analysis
     if text and text.strip():
         try:
-            s, c = predict_text_sentiment(text)
-            results.append({"modality": "text", "sentiment": s, "confidence": c})
+            s, c, r = predict_text_sentiment(text)
+            results.append({"modality": "text", "sentiment": s, "confidence": c, "reasoning": r})
         except Exception as e:
             print(f"Error in text fusion: {e}")
 
@@ -34,7 +34,7 @@ def predict_fused_sentiment(text=None, audio_bytes=None, image=None):
             print(f"Error in vision fusion: {e}")
 
     if not results:
-        return "Unknown", 0.0
+        return "Unknown", 0.0, [], []
 
     # Fusion Logic
     # Weights
@@ -42,6 +42,7 @@ def predict_fused_sentiment(text=None, audio_bytes=None, image=None):
     
     unified_scores = {"Positive": 0.0, "Negative": 0.0, "Neutral": 0.0}
     total_weight = 0.0
+    math_breakdown = []
     
     for res in results:
         original_sentiment = res["sentiment"]
@@ -53,8 +54,20 @@ def predict_fused_sentiment(text=None, audio_bytes=None, image=None):
         
         # Add weighted score
         weight = weights.get(modality, 0.33)
-        unified_scores[unified_sentiment] += confidence * weight
+        contribution = confidence * weight
+        unified_scores[unified_sentiment] += contribution
         total_weight += weight
+        
+        # Build Math Breakdown
+        # Example format: "Text: Anticipation (82%) × Weight (0.3) = 0.246 Positive"
+        math_breakdown.append({
+            "modality": modality.capitalize(),
+            "original_sentiment": original_sentiment.capitalize(),
+            "confidence": round(confidence * 100, 1),
+            "weight": weight,
+            "contribution": round(contribution * 100, 1),
+            "maps_to": unified_sentiment
+        })
         
     # Find max score
     if total_weight > 0:
@@ -70,4 +83,7 @@ def predict_fused_sentiment(text=None, audio_bytes=None, image=None):
     else:
         normalized_confidence = 0.0
         
-    return final_sentiment, min(normalized_confidence, 1.0)
+    # Extract just text reasoning to return upwards
+    text_reasoning = next((r["reasoning"] for r in results if r["modality"] == "text"), [])
+        
+    return final_sentiment, min(normalized_confidence, 1.0), text_reasoning, math_breakdown

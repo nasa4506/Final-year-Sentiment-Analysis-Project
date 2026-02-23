@@ -13,6 +13,8 @@ class FusedResponse(BaseModel):
     sentiment: str
     confidence: float
     details: Optional[dict] = None # To return individual model results if needed
+    reasoning: list = []
+    math_breakdown: list = []
 
 @router.post("/fused", response_model=FusedResponse)
 async def analyze_fused(
@@ -35,13 +37,13 @@ async def analyze_fused(
             image = Image.open(io.BytesIO(image_bytes))
             
         # Predict
-        sentiment, confidence = predict_fused_sentiment(
+        sentiment, confidence, reasoning, math_breakdown = predict_fused_sentiment(
             text=text,
             audio_bytes=audio_bytes,
             image=image
         )
         
-        return FusedResponse(sentiment=sentiment, confidence=confidence)
+        return FusedResponse(sentiment=sentiment, confidence=confidence, reasoning=reasoning, math_breakdown=math_breakdown)
     except Exception as e:
         logger.error(f"Error analyzing fused input: {e}")
         raise HTTPException(status_code=500, detail=str(e))

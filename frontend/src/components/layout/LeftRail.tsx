@@ -6,14 +6,19 @@ import {
       Database,
       Settings,
       Activity,
-      Box
+      Box,
+      Sun,
+      Moon
 } from "lucide-react"
+import { useTheme } from "../ThemeProvider"
 
 interface LeftRailProps {
       className?: string
 }
 
 export const LeftRail: React.FC<LeftRailProps> = ({ className }) => {
+      const { theme, toggleTheme } = useTheme()
+
       const navItems = [
             { icon: BarChart2, label: "Analyze", active: true },
             { icon: History, label: "History", active: false },
@@ -55,6 +60,13 @@ export const LeftRail: React.FC<LeftRailProps> = ({ className }) => {
                               <Activity className="h-4 w-4 text-green-500" />
                               <span className="hidden md:block">API Online</span>
                         </div>
+                        <button
+                              onClick={toggleTheme}
+                              className="flex items-center gap-3 px-3 py-2 rounded-lg text-gray-400 hover:text-white hover:bg-white/5 transition-colors text-sm font-medium"
+                        >
+                              {theme === 'dark' ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+                              <span className="hidden md:block">Toggle Theme</span>
+                        </button>
                         <button className="flex items-center gap-3 px-3 py-2 rounded-lg text-gray-400 hover:text-white hover:bg-white/5 transition-colors text-sm font-medium">
                               <Settings className="h-5 w-5" />
                               <span className="hidden md:block">Settings</span>

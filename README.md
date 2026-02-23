@@ -91,13 +91,45 @@ The frontend provides the interactive User Interface built with React, Vite, and
 ---
 
 ## 🧠 Models Used
-This project uses advanced deep learning models for sentiment analysis:
-- **Text:** RoBERTa (`cardiffnlp/twitter-roberta-base-sentiment-latest`)
+This project uses advanced deep learning models for multimodal sentiment analysis:
+- **Text (English):** RoBERTa (`cardiffnlp/twitter-roberta-base-sentiment-latest`)
+- **Text (Hindi):** Fine-tuned `l3cube-pune/hindi-bert-v2` trained on a custom combined dataset of Amazon Reviews and the Kaggle Hindi Emotion dataset (`praths71018/hindi-sentiment-dataset`, 13 emotions mapped to Positive/Neutral/Negative).
 - **Audio:** Wav2Vec 2.0 (`ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition`)
 - **Vision:** Vision Transformer - ViT (`dima806/facial_emotions_image_detection`)
 
 For more details on the architecture and models, refer to `models_documentation.md` and `overview.md`.
 
-## Troubleshooting
+---
+
+## 🏗️ Development Journey & Architectural Evolution
+
+This project has undergone a significant transformation from its initial prototype stage to a modern, highly optimized Client-Server application. Here is a detailed breakdown of the development process:
+
+### 1. Architectural Refactoring (Streamlit to React + FastAPI)
+The initial prototype was built using Streamlit, which, while excellent for rapid iterations, posed limitations in scalability and complex UI design constraints.
+- **Backend Transition**: We extracted the core machine-learning logic into an asynchronous **FastAPI** application. This allowed us to expose highly performant REST endpoints for Text, Audio, Vision, Video, and Fused analysis individually.
+- **Frontend Transition**: We built a fully custom frontend Single Page Application (SPA) using **React, Vite, TypeScript, and Tailwind CSS**. This gave us granular control over the user interface, resulting in smooth animations (using Framer Motion), dynamic visualizations, and a highly responsive multi-modal dashboard.
+
+### 2. Upgrading to State-of-the-Art (SOTA) Transformer Models
+We moved away from legacy, primitive models (like TextBlob and lightweight ResNets) to leverage the power of advanced Transformers via HuggingFace:
+- **English Text**: Upgraded to a RoBERTa architecture (`cardiffnlp/twitter-roberta-base-sentiment-latest`).
+- **Audio**: Implemented a robust Wav2Vec 2.0 model for granular Speech Emotion Recognition.
+- **Vision/Facial Cues**: Adopted a Vision Transformer (ViT) architecture (`dima806/facial_emotions_image_detection`) capable of nuanced facial expression analysis.
+
+### 3. Curating and Training a Custom Hindi Sentiment AI 
+A core focus of this project was addressing the lack of robust, localized emotion models in the Hindi language.
+- **Dataset Curation**: We mined the Kaggle Hindi Emotion dataset (which contained 13 specific emotions like Joy, Love, Disgust, etc.) and programmatically mapped those down to the standard 3-class sentiment scale (Positive, Neutral, Negative).
+- **Data Merging**: To ensure the model generalizes perfectly to real-world vocabulary structures, we merged the refined Kaggle dataset with a large Amazon Hindi Reviews dataset, establishing a highly robust, unified training set.
+- **Fine-Tuning Process**: We fine-tuned the `l3cube-pune/hindi-bert-v2` transformer backbone using the `transformers` library on this custom dataset.
+- **Hardware Optimization**: To facilitate local training under major hardware constraints (an Nvidia RTX 3050 mobile GPU with precisely 4GB of VRAM), we employed heavy VRAM optimization techniques: mixed-precision training (`fp16=True`), strict tokenizer truncation (`MAX_LENGTH=128`), an incredibly small physical batch size of 4, and utilized `gradient_accumulation_steps=4` to safely simulate a larger effective batch size of 16 without triggering CUDA Out-Of-Memory (OOM) errors.
+
+### 4. Implementing Explainable AI (XAI) and Math Unification
+To make the AI decisions deeply transparent to the user, we built Explainability directly into the application's core logic.
+- **Token-Level Attributions**: Within the text output stream on the UI, individual words and subword tokens are distinctly highlighted based on their mathematical weights. Green glows indicate support for the predicted emotion, and red glows represent contradictions over the overall sentiment—with glow intensity tied directly to its impact score.
+- **Math Breakdown Module**: We created an advanced tabular Evidence Panel that breaks down how every active modality (Audio, Vision, Text) unifies its specialized prediction string to a base sentiment. It demonstrates exactly how its internal confidence metric multiplies a predefined backend weight to yield a tangible total percentage contribution score applied to the final Fused output.
+
+---
+
+## 🛠 Troubleshooting
 - **CORS Errors:** If the frontend cannot communicate with the backend, ensure the backend is running and the CORS middleware in `backend/main.py` allows origins from your Vite dev server port.
 - **Missing Models:** The models are downloaded automatically via HuggingFace the first time they are used. Ensure you have an active internet connection on your first run.

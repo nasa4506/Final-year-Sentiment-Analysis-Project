@@ -20,6 +20,7 @@ class ModalityResult(BaseModel):
     sentiment: str
     confidence: float
     details: Optional[str] = None
+    reasoning: list = []
 
 class VideoResponse(BaseModel):
     video_sentiment: str
@@ -27,6 +28,7 @@ class VideoResponse(BaseModel):
     modalities: Dict[str, ModalityResult]
     frames_analyzed: int
     transcription: str
+    math_breakdown: list = []
 
 @router.post("/video", response_model=VideoResponse)
 async def analyze_video(file: UploadFile = File(...)):
@@ -51,11 +53,12 @@ async def analyze_video(file: UploadFile = File(...)):
             # Text Sentiment (via Transcription)
             transcription = transcribe_audio(audio_bytes)
             if transcription and transcription.strip():
-                text_sentiment, text_conf = predict_text_sentiment(transcription)
+                text_sentiment, text_conf, text_reasoning = predict_text_sentiment(transcription)
                 results["text"] = ModalityResult(
                     sentiment=text_sentiment, 
                     confidence=text_conf,
-                    details=transcription
+                    details=transcription,
+                    reasoning=text_reasoning
                 )
             else:
                 transcription = ""
@@ -95,6 +98,7 @@ async def analyze_video(file: UploadFile = File(...)):
         
         final_scores = {}
         total_weight_used = 0.0
+        math_breakdown = []
         
         for modality, result in results.items():
             s = result.sentiment
@@ -106,8 +110,19 @@ async def analyze_video(file: UploadFile = File(...)):
             
             if unified_s not in final_scores:
                 final_scores[unified_s] = 0.0
-            final_scores[unified_s] += c * w
+                
+            contribution = c * w
+            final_scores[unified_s] += contribution
             total_weight_used += w
+            
+            math_breakdown.append({
+                "modality": modality.capitalize(),
+                "original_sentiment": s.capitalize(),
+                "confidence": round(c * 100, 1),
+                "weight": w,
+                "contribution": round(contribution * 100, 1),
+                "maps_to": unified_s
+            })
             
         if final_scores:
             final_sentiment = max(final_scores.items(), key=lambda x: x[1])[0]
@@ -122,8 +137,9 @@ async def analyze_video(file: UploadFile = File(...)):
             video_sentiment=final_sentiment,
             video_confidence=final_confidence,
             modalities=results,
-            frames_analyzed=len(frames),
-            transcription=transcription
+            frames_analyzed=len(frames) if frames else 0,
+            transcription=transcription,
+            math_breakdown=math_breakdown
         )
 
     except Exception as e:

@@ -1,7 +1,13 @@
-# Text Model Configuration
+# Text Model Configuration (Multilingual 13-Emotions via LoRA)
 TEXT_MODEL_CONFIG = {
-    "model_name": "cardiffnlp/twitter-roberta-base-sentiment-latest",
-    "labels": ["Negative", "Neutral", "Positive"]
+    # The base model is what the tokenzier needs
+    "base_model_name": "xlm-roberta-base",
+    # The local path where our fine-tuned LoRA adapters are saved
+    "lora_path": "./models_weights/multilingual_13_emotions_lora",
+    "labels": [
+        "angry", "anticipation", "confusion", "disgust", "fear", "frustration", 
+        "happy", "joy", "love", "neutral", "sad", "surprise", "trust"
+    ]
 }
 
 # Audio Model Configuration
@@ -38,14 +44,34 @@ VIDEO_FRAME_INTERVALS = [0, 0.25, 0.5, 0.75, 1.0]
 
 # Sentiment Grouping (for fusion)
 SENTIMENT_UNIFICATION = {
+    # Base
     "Positive": "Positive",
-    "Happy": "Positive",
+    "Neutral": "Neutral",
     "Negative": "Negative",
+    
+    # Audio/Vision Original
+    "Happy": "Positive",
     "Sad": "Negative",
     "Angry": "Negative",
     "Fear": "Negative",
     "Disgust": "Negative",
-    "Neutral": "Neutral",
-    "Surprise": "Neutral"
+    "Surprise": "Neutral",
+    
+    # Text Model 13 Emotions
+    "joy": "Positive",
+    "love": "Positive",
+    "happy": "Positive",
+    "anticipation": "Positive",  # Generally positive/excitement
+    "trust": "Positive",
+    
+    "neutral": "Neutral",
+    "confusion": "Neutral",
+    "surprise": "Neutral",
+    
+    "sad": "Negative",
+    "angry": "Negative",
+    "fear": "Negative",
+    "disgust": "Negative",
+    "frustration": "Negative"
 }
 

@@ -1,0 +1,2731 @@
+id,text,emotion,language,source,topic
+3482,यह समझना बहुत मुश्किल है।,confusion,hi,reddit,health
+3218,This is a regular update.,neutral,en,twitter,education
+581,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,reddit,shopping
+610,I can't believe this happened again.,angry,en,news,education
+143,Everything feels bright and positive right now.,happy,en,google_reviews,shopping
+3793,This is getting very annoying.,frustration,en,google_reviews,education
+2534,I can't wait for this to happen.,anticipation,en,twitter,technology
+2829,Everything feels perfect right now.,joy,en,news,technology
+3393,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,google_reviews,technology
+188,Everything feels bright and positive right now.,happy,en,twitter,technology
+677,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,news,shopping
+2986,Everything feels perfect right now.,joy,en,google_reviews,health
+3799,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,education
+3773,I keep trying and failing.,frustration,en,twitter,health
+122,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,health
+2660,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,education
+2625,There is a lot of excitement inside me.,anticipation,en,google_reviews,health
+371,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,google_reviews,technology
+2071,This means a lot to me.,love,en,reddit,technology
+363,It's been a hard day for me.,sad,en,twitter,technology
+2242,I feel confident about this.,trust,en,twitter,technology
+2241,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,education
+3064,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,education
+2189,I believe in what you are saying.,trust,en,reddit,shopping
+2541,I can't wait for this to happen.,anticipation,en,twitter,technology
+3212,The event took place as scheduled.,neutral,en,news,technology
+1511,यह देखना बहुत ही घिनौना है।,disgust,hi,news,shopping
+3545,I feel lost about this.,confusion,en,twitter,shopping
+1312,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,technology
+859,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,entertainment
+1768,This is really unpleasant to see.,disgust,en,news,entertainment
+1547,I feel sick thinking about this.,disgust,en,google_reviews,health
+1859,This means a lot to me.,love,en,google_reviews,health
+879,This is completely unacceptable.,angry,en,news,education
+2292,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,entertainment
+631,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,technology
+1285,I did not expect this at all.,surprise,en,reddit,education
+1218,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,education
+3484,This is hard to understand.,confusion,en,twitter,entertainment
+2087,यह मेरे लिए बहुत मायने रखता है।,love,hi,reddit,shopping
+3581,This is hard to understand.,confusion,en,google_reviews,entertainment
+1804,This means a lot to me.,love,en,reddit,shopping
+2806,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,shopping
+2602,There is a lot of excitement inside me.,anticipation,en,twitter,entertainment
+2582,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,health
+3588,I feel lost about this.,confusion,en,twitter,entertainment
+21,This made my day so much better.,happy,en,news,technology
+1233,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,technology
+2814,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,technology
+577,It's been a hard day for me.,sad,en,reddit,shopping
+3553,यह समझना बहुत मुश्किल है।,confusion,hi,news,technology
+2187,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,technology
+3889,I keep trying and failing.,frustration,en,reddit,shopping
+3700,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,twitter,shopping
+409,It's been a hard day for me.,sad,en,twitter,education
+2758,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,education
+2408,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,entertainment
+3043,Everything is proceeding as planned.,neutral,en,twitter,entertainment
+2289,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,health
+1151,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,shopping
+899,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,health
+695,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,shopping
+1770,यह देखना बहुत ही घिनौना है।,disgust,hi,amazon,technology
+3163,The event took place as scheduled.,neutral,en,amazon,entertainment
+2574,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,entertainment
+1434,"Wow, this is unexpected.",surprise,en,news,shopping
+2434,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,health
+3674,This is getting very annoying.,frustration,en,google_reviews,shopping
+3153,The event took place as scheduled.,neutral,en,google_reviews,health
+3169,This is a regular update.,neutral,en,twitter,technology
+3146,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,entertainment
+1384,That was a big surprise for me.,surprise,en,news,health
+2593,I can't wait for this to happen.,anticipation,en,reddit,technology
+1440,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,health
+1299,I did not expect this at all.,surprise,en,twitter,health
+540,I feel really low and tired today.,sad,en,twitter,health
+337,कुछ भी सही नहीं लग रहा है।,sad,hi,news,entertainment
+3059,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,education
+202,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,twitter,health
+2785,This moment brings me pure joy.,joy,en,google_reviews,health
+302,Nothing seems to be going right.,sad,en,news,entertainment
+1822,This means a lot to me.,love,en,amazon,entertainment
+490,I feel really low and tired today.,sad,en,reddit,health
+1984,My heart feels full right now.,love,en,twitter,technology
+1444,That was a big surprise for me.,surprise,en,reddit,entertainment
+1032,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,entertainment
+3430,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,health
+1641,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,health
+3412,I am not sure what this means.,confusion,en,amazon,education
+2335,I believe in what you are saying.,trust,en,twitter,health
+1073,I keep worrying about the future.,fear,en,google_reviews,entertainment
+2105,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,shopping
+1136,I keep worrying about the future.,fear,en,google_reviews,shopping
+2273,I feel confident about this.,trust,en,news,education
+642,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,technology
+3034,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,twitter,entertainment
+2531,I am really looking forward to what comes next.,anticipation,en,news,entertainment
+3753,I keep trying and failing.,frustration,en,reddit,education
+3027,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,technology
+3178,यह एक सामान्य अपडेट है।,neutral,hi,google_reviews,technology
+2356,मुझे आपकी बात पर भरोसा है।,trust,hi,reddit,shopping
+1143,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,health
+162,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,education
+1370,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,amazon,technology
+2939,This moment brings me pure joy.,joy,en,google_reviews,education
+2672,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,entertainment
+525,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,education
+1225,"Wow, this is unexpected.",surprise,en,reddit,education
+3075,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,shopping
+2465,I can't wait for this to happen.,anticipation,en,google_reviews,health
+3386,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,entertainment
+3800,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,education
+2735,Everything feels perfect right now.,joy,en,reddit,technology
+2636,I can't wait for this to happen.,anticipation,en,twitter,entertainment
+466,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,education
+1740,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,health
+2066,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,shopping
+1002,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,health
+950,I keep worrying about the future.,fear,en,google_reviews,shopping
+52,This made my day so much better.,happy,en,reddit,entertainment
+2632,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,education
+394,Nothing seems to be going right.,sad,en,news,education
+3503,This is hard to understand.,confusion,en,google_reviews,health
+2588,I can't wait for this to happen.,anticipation,en,reddit,education
+2100,My heart feels full right now.,love,en,news,education
+3666,This is getting very annoying.,frustration,en,amazon,shopping
+2217,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,technology
+2945,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,twitter,entertainment
+2865,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,shopping
+1724,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,health
+429,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,technology
+2086,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,shopping
+72,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,health
+509,Nothing seems to be going right.,sad,en,news,entertainment
+3738,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,education
+2727,This moment brings me pure joy.,joy,en,reddit,technology
+3758,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,education
+683,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,shopping
+2852,This moment brings me pure joy.,joy,en,reddit,education
+3697,This is getting very annoying.,frustration,en,amazon,health
+2504,I am really looking forward to what comes next.,anticipation,en,google_reviews,technology
+1762,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,shopping
+1710,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,education
+2962,Everything feels perfect right now.,joy,en,google_reviews,education
+521,कुछ भी सही नहीं लग रहा है।,sad,hi,news,technology
+1912,I truly care about you.,love,en,google_reviews,entertainment
+670,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,health
+3260,यह एक सामान्य अपडेट है।,neutral,hi,amazon,education
+1068,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,news,education
+2197,I feel confident about this.,trust,en,reddit,education
+2460,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,health
+3530,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,entertainment
+3725,Nothing seems to be working.,frustration,en,twitter,entertainment
+691,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,entertainment
+22,This made my day so much better.,happy,en,twitter,technology
+2107,I believe in what you are saying.,trust,en,google_reviews,education
+1112,I am scared about what might happen next.,fear,en,twitter,technology
+750,I am very angry about what happened.,angry,en,amazon,education
+1851,यह मेरे लिए बहुत मायने रखता है।,love,hi,amazon,shopping
+3298,The event took place as scheduled.,neutral,en,twitter,education
+3265,This is a regular update.,neutral,en,twitter,education
+2270,मुझे आपकी बात पर भरोसा है।,trust,hi,google_reviews,shopping
+763,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,technology
+3783,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,health
+136,I feel really happy about how things turned out today.,happy,en,reddit,entertainment
+1623,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,shopping
+2618,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,education
+2540,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,shopping
+1248,"Wow, this is unexpected.",surprise,en,news,technology
+947,This situation makes me feel unsafe.,fear,en,news,technology
+3352,I feel lost about this.,confusion,en,reddit,entertainment
+1057,I am scared about what might happen next.,fear,en,amazon,technology
+367,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,health
+2462,I am really looking forward to what comes next.,anticipation,en,twitter,technology
+2255,I feel confident about this.,trust,en,reddit,health
+2355,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,education
+3481,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,technology
+2807,This moment brings me pure joy.,joy,en,google_reviews,technology
+3873,This is getting very annoying.,frustration,en,reddit,education
+3630,This is getting very annoying.,frustration,en,news,technology
+2910,Everything feels perfect right now.,joy,en,google_reviews,entertainment
+946,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,shopping
+3742,Nothing seems to be working.,frustration,en,amazon,education
+1327,That was a big surprise for me.,surprise,en,google_reviews,technology
+3549,I feel lost about this.,confusion,en,google_reviews,entertainment
+280,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,shopping
+822,I can't believe this happened again.,angry,en,twitter,technology
+961,This situation makes me feel unsafe.,fear,en,news,health
+1417,That was a big surprise for me.,surprise,en,google_reviews,entertainment
+1923,This means a lot to me.,love,en,news,entertainment
+255,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,shopping
+2311,This makes me feel secure.,trust,en,google_reviews,shopping
+1206,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,education
+1016,I am scared about what might happen next.,fear,en,amazon,health
+754,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,google_reviews,shopping
+192,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,shopping
+1335,I did not expect this at all.,surprise,en,amazon,education
+3376,This is hard to understand.,confusion,en,twitter,entertainment
+2609,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,technology
+3450,I feel lost about this.,confusion,en,twitter,entertainment
+3888,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,health
+3797,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,technology
+3299,The event took place as scheduled.,neutral,en,reddit,entertainment
+106,This made my day so much better.,happy,en,news,technology
+896,I can't believe this happened again.,angry,en,amazon,health
+3173,The event took place as scheduled.,neutral,en,twitter,technology
+2162,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,shopping
+586,It's been a hard day for me.,sad,en,reddit,entertainment
+2615,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,shopping
+3190,Everything is proceeding as planned.,neutral,en,google_reviews,technology
+1460,"Wow, this is unexpected.",surprise,en,news,entertainment
+1932,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+3028,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,shopping
+2296,मुझे आपकी बात पर भरोसा है।,trust,hi,news,education
+3433,I feel lost about this.,confusion,en,reddit,health
+805,I can't believe this happened again.,angry,en,google_reviews,health
+415,It's been a hard day for me.,sad,en,news,entertainment
+3825,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,health
+2651,I am really looking forward to what comes next.,anticipation,en,amazon,technology
+612,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,health
+3512,I am not sure what this means.,confusion,en,reddit,shopping
+658,I am very angry about what happened.,angry,en,news,entertainment
+722,I am very angry about what happened.,angry,en,google_reviews,entertainment
+3691,Nothing seems to be working.,frustration,en,google_reviews,health
+120,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,twitter,technology
+221,Everything feels bright and positive right now.,happy,en,reddit,health
+1454,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,amazon,entertainment
+2298,I believe in what you are saying.,trust,en,news,health
+2830,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,health
+926,This situation makes me feel unsafe.,fear,en,news,shopping
+2753,I am enjoying every second of this.,joy,en,news,health
+2014,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,entertainment
+1621,This is really unpleasant to see.,disgust,en,twitter,health
+2906,This moment brings me pure joy.,joy,en,twitter,entertainment
+3007,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,news,technology
+3713,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,technology
+3110,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,entertainment
+1311,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,technology
+1782,That behavior was disgusting.,disgust,en,twitter,shopping
+2160,I believe in what you are saying.,trust,en,reddit,shopping
+1988,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,entertainment
+3195,This is a regular update.,neutral,en,news,shopping
+2147,I feel confident about this.,trust,en,reddit,technology
+3449,I feel lost about this.,confusion,en,google_reviews,technology
+2019,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,entertainment
+2981,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,technology
+1727,यह व्यवहार बहुत ही घृणित था।,disgust,hi,twitter,shopping
+744,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,entertainment
+9,I feel really happy about how things turned out today.,happy,en,amazon,health
+799,I am very angry about what happened.,angry,en,amazon,education
+1081,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,news,education
+1416,"Wow, this is unexpected.",surprise,en,twitter,education
+3058,Everything is proceeding as planned.,neutral,en,twitter,technology
+1058,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,news,education
+51,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,technology
+1122,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,amazon,entertainment
+226,Everything feels bright and positive right now.,happy,en,twitter,technology
+3192,The event took place as scheduled.,neutral,en,twitter,entertainment
+294,I feel really happy about how things turned out today.,happy,en,reddit,education
+1079,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,shopping
+963,I am scared about what might happen next.,fear,en,reddit,health
+1968,I truly care about you.,love,en,amazon,shopping
+997,I am scared about what might happen next.,fear,en,google_reviews,shopping
+627,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,health
+1038,I am scared about what might happen next.,fear,en,twitter,entertainment
+1737,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,technology
+1618,That behavior was disgusting.,disgust,en,google_reviews,health
+1990,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,technology
+3067,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,entertainment
+2044,This means a lot to me.,love,en,twitter,shopping
+3242,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,technology
+944,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,twitter,entertainment
+1546,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,shopping
+2665,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,shopping
+1259,I did not expect this at all.,surprise,en,news,shopping
+3567,I feel lost about this.,confusion,en,news,shopping
+3597,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,shopping
+679,This is completely unacceptable.,angry,en,news,entertainment
+2440,There is a lot of excitement inside me.,anticipation,en,reddit,entertainment
+1148,This situation makes me feel unsafe.,fear,en,reddit,technology
+1920,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,education
+1976,My heart feels full right now.,love,en,google_reviews,health
+328,Nothing seems to be going right.,sad,en,reddit,health
+30,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,shopping
+562,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,health
+954,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,entertainment
+2527,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,shopping
+3042,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,technology
+3454,I feel lost about this.,confusion,en,news,health
+2855,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,education
+2051,This means a lot to me.,love,en,amazon,education
+2041,This means a lot to me.,love,en,news,education
+1394,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,google_reviews,technology
+3464,यह समझना बहुत मुश्किल है।,confusion,hi,reddit,technology
+2786,Everything feels perfect right now.,joy,en,twitter,entertainment
+127,I feel really happy about how things turned out today.,happy,en,news,entertainment
+1534,यह देखना बहुत ही घिनौना है।,disgust,hi,amazon,technology
+2412,I am really looking forward to what comes next.,anticipation,en,twitter,entertainment
+2631,I am really looking forward to what comes next.,anticipation,en,twitter,shopping
+1358,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,education
+2677,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,shopping
+1983,This means a lot to me.,love,en,google_reviews,shopping
+2557,There is a lot of excitement inside me.,anticipation,en,google_reviews,entertainment
+1192,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,twitter,education
+2507,मेरे अंदर बहुत उत्साह है।,anticipation,hi,twitter,shopping
+971,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,shopping
+1555,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,education
+3109,यह एक सामान्य अपडेट है।,neutral,hi,twitter,health
+3500,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,education
+2006,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,education
+2305,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,education
+2951,I am enjoying every second of this.,joy,en,news,education
+1132,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,technology
+2209,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,entertainment
+2362,This makes me feel secure.,trust,en,google_reviews,shopping
+3083,The event took place as scheduled.,neutral,en,amazon,education
+2628,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,entertainment
+772,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,education
+2265,I believe in what you are saying.,trust,en,twitter,health
+2789,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,technology
+2224,मुझे आपकी बात पर भरोसा है।,trust,hi,news,technology
+1360,"Wow, this is unexpected.",surprise,en,amazon,education
+1426,"Wow, this is unexpected.",surprise,en,reddit,shopping
+291,This made my day so much better.,happy,en,google_reviews,entertainment
+3452,This is hard to understand.,confusion,en,news,health
+2193,This makes me feel secure.,trust,en,news,shopping
+1686,That behavior was disgusting.,disgust,en,twitter,shopping
+2486,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,technology
+3621,This is getting very annoying.,frustration,en,amazon,health
+2470,I can't wait for this to happen.,anticipation,en,amazon,shopping
+570,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,twitter,education
+1295,That was a big surprise for me.,surprise,en,news,technology
+913,I keep worrying about the future.,fear,en,amazon,education
+3721,This is getting very annoying.,frustration,en,google_reviews,education
+1800,I feel sick thinking about this.,disgust,en,news,shopping
+1099,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,news,shopping
+3199,Everything is proceeding as planned.,neutral,en,amazon,technology
+2799,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,entertainment
+2149,This makes me feel secure.,trust,en,news,health
+1470,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,technology
+3033,The event took place as scheduled.,neutral,en,google_reviews,education
+810,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,technology
+1215,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,health
+131,Everything feels bright and positive right now.,happy,en,reddit,health
+1207,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,shopping
+3074,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,health
+3792,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,entertainment
+1436,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,education
+3874,Nothing seems to be working.,frustration,en,reddit,entertainment
+1959,I truly care about you.,love,en,amazon,education
+1490,I did not expect this at all.,surprise,en,reddit,education
+1793,This is really unpleasant to see.,disgust,en,twitter,technology
+427,It's been a hard day for me.,sad,en,reddit,health
+2966,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,technology
+2026,यह मेरे लिए बहुत मायने रखता है।,love,hi,twitter,entertainment
+820,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,shopping
+738,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,education
+3885,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,entertainment
+524,I feel really low and tired today.,sad,en,twitter,shopping
+1552,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,education
+1789,This is really unpleasant to see.,disgust,en,google_reviews,shopping
+2464,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,education
+2565,There is a lot of excitement inside me.,anticipation,en,news,entertainment
+2111,This makes me feel secure.,trust,en,twitter,health
+3865,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,technology
+850,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,technology
+169,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,amazon,health
+3684,This is getting very annoying.,frustration,en,twitter,education
+3219,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,education
+2585,There is a lot of excitement inside me.,anticipation,en,news,technology
+453,I feel really low and tired today.,sad,en,amazon,technology
+475,It's been a hard day for me.,sad,en,twitter,education
+1522,I feel sick thinking about this.,disgust,en,news,education
+3508,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,health
+1342,"Wow, this is unexpected.",surprise,en,reddit,technology
+678,I can't believe this happened again.,angry,en,amazon,health
+649,I can't believe this happened again.,angry,en,amazon,entertainment
+233,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,shopping
+1302,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,education
+1396,"Wow, this is unexpected.",surprise,en,twitter,technology
+599,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,education
+2621,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,health
+3757,This is getting very annoying.,frustration,en,google_reviews,entertainment
+12,Everything feels bright and positive right now.,happy,en,twitter,entertainment
+2750,Everything feels perfect right now.,joy,en,twitter,health
+1290,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,entertainment
+3047,The event took place as scheduled.,neutral,en,google_reviews,technology
+694,This is completely unacceptable.,angry,en,amazon,health
+571,I feel really low and tired today.,sad,en,reddit,shopping
+1331,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,education
+195,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,health
+179,I feel really happy about how things turned out today.,happy,en,google_reviews,health
+1242,That was a big surprise for me.,surprise,en,reddit,education
+3060,यह एक सामान्य अपडेट है।,neutral,hi,google_reviews,education
+348,Nothing seems to be going right.,sad,en,news,entertainment
+710,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,education
+1712,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,health
+116,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,entertainment
+1181,I keep worrying about the future.,fear,en,google_reviews,entertainment
+2170,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,entertainment
+2082,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,health
+2315,I believe in what you are saying.,trust,en,google_reviews,shopping
+424,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,entertainment
+3770,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,entertainment
+1955,This means a lot to me.,love,en,news,health
+1532,This is really unpleasant to see.,disgust,en,google_reviews,technology
+1372,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,news,entertainment
+1871,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,education
+3622,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,education
+1100,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,technology
+629,I can't believe this happened again.,angry,en,news,technology
+537,Nothing seems to be going right.,sad,en,google_reviews,entertainment
+2911,This moment brings me pure joy.,joy,en,reddit,education
+134,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,shopping
+2035,This means a lot to me.,love,en,amazon,entertainment
+2388,मुझे इस पर पूरा विश्वास है।,trust,hi,news,education
+2823,I am enjoying every second of this.,joy,en,news,education
+1301,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,education
+819,I am very angry about what happened.,angry,en,twitter,shopping
+821,This is completely unacceptable.,angry,en,amazon,technology
+1894,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,health
+661,I can't believe this happened again.,angry,en,amazon,education
+2351,I believe in what you are saying.,trust,en,reddit,shopping
+1747,That behavior was disgusting.,disgust,en,twitter,technology
+1120,This situation makes me feel unsafe.,fear,en,news,health
+647,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,entertainment
+2555,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+3771,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,google_reviews,health
+2038,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,education
+191,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,health
+1363,"Wow, this is unexpected.",surprise,en,google_reviews,health
+660,This is completely unacceptable.,angry,en,news,shopping
+1818,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+2679,There is a lot of excitement inside me.,anticipation,en,amazon,education
+2532,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,health
+1978,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,education
+3477,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,technology
+1761,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,health
+2736,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,health
+1645,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,shopping
+3856,I keep trying and failing.,frustration,en,google_reviews,shopping
+3572,This is hard to understand.,confusion,en,reddit,entertainment
+3842,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,technology
+3122,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,technology
+3603,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,education
+3677,This is getting very annoying.,frustration,en,reddit,technology
+878,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,health
+3080,यह एक सामान्य अपडेट है।,neutral,hi,amazon,health
+2058,My heart feels full right now.,love,en,reddit,technology
+2890,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,google_reviews,education
+2371,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,technology
+1487,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,shopping
+1685,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,health
+3811,I keep trying and failing.,frustration,en,twitter,shopping
+150,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,shopping
+13,Everything feels bright and positive right now.,happy,en,google_reviews,education
+2782,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,technology
+56,Everything feels bright and positive right now.,happy,en,amazon,education
+1676,This is really unpleasant to see.,disgust,en,news,technology
+2276,I believe in what you are saying.,trust,en,google_reviews,technology
+2027,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,shopping
+703,This is completely unacceptable.,angry,en,reddit,technology
+552,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,health
+2178,I believe in what you are saying.,trust,en,news,technology
+3690,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,health
+3507,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,amazon,entertainment
+27,Everything feels bright and positive right now.,happy,en,twitter,technology
+3310,I feel lost about this.,confusion,en,news,entertainment
+125,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,entertainment
+3579,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,education
+1051,I keep worrying about the future.,fear,en,google_reviews,entertainment
+1457,"Wow, this is unexpected.",surprise,en,google_reviews,health
+3081,Everything is proceeding as planned.,neutral,en,twitter,health
+1991,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,technology
+1398,"Wow, this is unexpected.",surprise,en,twitter,entertainment
+1816,This means a lot to me.,love,en,google_reviews,education
+1957,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,shopping
+462,Nothing seems to be going right.,sad,en,reddit,technology
+3044,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,news,technology
+279,This made my day so much better.,happy,en,google_reviews,technology
+1155,This situation makes me feel unsafe.,fear,en,news,entertainment
+3834,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,shopping
+2430,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,health
+1389,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,entertainment
+2819,Everything feels perfect right now.,joy,en,google_reviews,shopping
+3651,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,google_reviews,shopping
+1648,यह व्यवहार बहुत ही घृणित था।,disgust,hi,twitter,education
+1179,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,reddit,health
+446,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,shopping
+789,I am very angry about what happened.,angry,en,news,health
+1471,"Wow, this is unexpected.",surprise,en,news,education
+1048,This situation makes me feel unsafe.,fear,en,news,health
+1808,This means a lot to me.,love,en,reddit,shopping
+936,I keep worrying about the future.,fear,en,google_reviews,entertainment
+2832,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,health
+1501,This is really unpleasant to see.,disgust,en,reddit,technology
+2064,This means a lot to me.,love,en,news,entertainment
+1520,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,education
+3505,I feel lost about this.,confusion,en,google_reviews,shopping
+3441,This is hard to understand.,confusion,en,google_reviews,entertainment
+2327,This makes me feel secure.,trust,en,twitter,education
+2016,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,education
+1588,This is really unpleasant to see.,disgust,en,amazon,health
+1180,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,shopping
+161,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,technology
+3673,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,technology
+1663,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,health
+948,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+3197,The event took place as scheduled.,neutral,en,amazon,technology
+714,I am very angry about what happened.,angry,en,amazon,entertainment
+3593,This is hard to understand.,confusion,en,google_reviews,health
+1149,I am scared about what might happen next.,fear,en,news,education
+1182,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,education
+553,It's been a hard day for me.,sad,en,reddit,technology
+641,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,technology
+1429,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,technology
+2229,I feel confident about this.,trust,en,amazon,education
+3828,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,education
+246,This made my day so much better.,happy,en,google_reviews,shopping
+1581,This is really unpleasant to see.,disgust,en,news,technology
+1,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,reddit,entertainment
+2065,This means a lot to me.,love,en,twitter,technology
+50,This made my day so much better.,happy,en,twitter,technology
+2876,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,technology
+2256,This makes me feel secure.,trust,en,news,shopping
+2253,This makes me feel secure.,trust,en,google_reviews,shopping
+81,I feel really happy about how things turned out today.,happy,en,amazon,technology
+3337,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,technology
+1711,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,health
+3640,Nothing seems to be working.,frustration,en,twitter,health
+3241,यह एक सामान्य अपडेट है।,neutral,hi,news,technology
+3217,This is a regular update.,neutral,en,google_reviews,shopping
+3829,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,health
+1157,I am scared about what might happen next.,fear,en,amazon,shopping
+1713,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,entertainment
+199,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,reddit,technology
+2124,I feel confident about this.,trust,en,twitter,shopping
+2183,I believe in what you are saying.,trust,en,amazon,shopping
+2552,I can't wait for this to happen.,anticipation,en,reddit,shopping
+2436,I can't wait for this to happen.,anticipation,en,amazon,health
+3634,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,google_reviews,technology
+2244,मुझे आपकी बात पर भरोसा है।,trust,hi,amazon,entertainment
+3292,यह एक सामान्य अपडेट है।,neutral,hi,reddit,technology
+203,This made my day so much better.,happy,en,reddit,education
+973,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,technology
+2425,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,technology
+3660,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,technology
+1369,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,health
+2322,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,entertainment
+313,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+2333,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,entertainment
+843,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+818,I am very angry about what happened.,angry,en,amazon,entertainment
+1779,This is really unpleasant to see.,disgust,en,news,technology
+300,This made my day so much better.,happy,en,amazon,education
+1045,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,entertainment
+2134,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,entertainment
+614,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,shopping
+2772,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,shopping
+182,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,health
+1738,This is really unpleasant to see.,disgust,en,news,education
+1033,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,technology
+998,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,health
+3382,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,health
+3118,The event took place as scheduled.,neutral,en,twitter,shopping
+986,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,entertainment
+2452,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,shopping
+2232,This makes me feel secure.,trust,en,amazon,entertainment
+1292,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,news,technology
+2804,I am enjoying every second of this.,joy,en,amazon,education
+368,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,education
+2500,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,technology
+3255,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,entertainment
+1296,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,news,entertainment
+2225,मुझे इस पर पूरा विश्वास है।,trust,hi,news,entertainment
+1322,I did not expect this at all.,surprise,en,twitter,shopping
+1238,That was a big surprise for me.,surprise,en,news,health
+1919,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+1854,My heart feels full right now.,love,en,amazon,health
+1362,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,health
+718,I can't believe this happened again.,angry,en,reddit,education
+809,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,technology
+2578,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,technology
+745,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,entertainment
+3779,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,shopping
+39,Everything feels bright and positive right now.,happy,en,reddit,health
+2376,I believe in what you are saying.,trust,en,amazon,technology
+3374,यह समझना बहुत मुश्किल है।,confusion,hi,news,shopping
+2859,This moment brings me pure joy.,joy,en,amazon,entertainment
+3185,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,news,health
+2831,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,shopping
+1748,यह देखना बहुत ही घिनौना है।,disgust,hi,amazon,entertainment
+1258,"Wow, this is unexpected.",surprise,en,amazon,entertainment
+3676,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,entertainment
+1790,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,entertainment
+1642,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,technology
+1928,This means a lot to me.,love,en,amazon,entertainment
+242,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,health
+1846,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,entertainment
+2278,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,education
+3455,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,health
+2948,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,education
+2918,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,news,shopping
+1884,I truly care about you.,love,en,news,education
+2691,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,shopping
+1870,My heart feels full right now.,love,en,amazon,health
+1424,"Wow, this is unexpected.",surprise,en,twitter,shopping
+507,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,shopping
+2537,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,technology
+2089,I truly care about you.,love,en,reddit,shopping
+2080,This means a lot to me.,love,en,reddit,shopping
+3527,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,shopping
+1347,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,amazon,entertainment
+484,It's been a hard day for me.,sad,en,google_reviews,shopping
+97,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,health
+3016,Everything is proceeding as planned.,neutral,en,news,education
+3181,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,health
+1484,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,health
+1781,I feel sick thinking about this.,disgust,en,google_reviews,health
+1084,This situation makes me feel unsafe.,fear,en,google_reviews,shopping
+731,I can't believe this happened again.,angry,en,amazon,entertainment
+2028,I truly care about you.,love,en,reddit,health
+2015,यह मेरे लिए बहुत मायने रखता है।,love,hi,news,entertainment
+768,This is completely unacceptable.,angry,en,reddit,shopping
+3005,The event took place as scheduled.,neutral,en,amazon,technology
+2389,I believe in what you are saying.,trust,en,reddit,education
+2923,Everything feels perfect right now.,joy,en,google_reviews,entertainment
+2032,I truly care about you.,love,en,google_reviews,health
+685,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,health
+43,Everything feels bright and positive right now.,happy,en,twitter,technology
+3870,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,entertainment
+1332,I did not expect this at all.,surprise,en,amazon,shopping
+561,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,entertainment
+1635,This is really unpleasant to see.,disgust,en,reddit,health
+2195,This makes me feel secure.,trust,en,twitter,entertainment
+2610,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,entertainment
+3024,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,technology
+414,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,education
+665,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,health
+3385,यह समझना बहुत मुश्किल है।,confusion,hi,news,shopping
+1858,This means a lot to me.,love,en,reddit,technology
+1353,I did not expect this at all.,surprise,en,reddit,technology
+975,I keep worrying about the future.,fear,en,reddit,health
+2536,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,shopping
+1523,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,health
+3879,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,google_reviews,technology
+3405,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,health
+1257,That was a big surprise for me.,surprise,en,twitter,entertainment
+1083,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,technology
+1337,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,entertainment
+3554,This is hard to understand.,confusion,en,news,health
+73,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,education
+3858,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,technology
+2943,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,health
+992,I am scared about what might happen next.,fear,en,twitter,shopping
+3887,I keep trying and failing.,frustration,en,news,shopping
+977,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,health
+1904,यह मेरे लिए बहुत मायने रखता है।,love,hi,news,entertainment
+682,I can't believe this happened again.,angry,en,google_reviews,technology
+1102,I am scared about what might happen next.,fear,en,amazon,entertainment
+331,It's been a hard day for me.,sad,en,twitter,education
+3204,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,shopping
+2,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,reddit,health
+1741,That behavior was disgusting.,disgust,en,google_reviews,shopping
+1365,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,shopping
+2236,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,technology
+1587,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,technology
+584,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,technology
+3871,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,shopping
+37,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,reddit,education
+435,I feel really low and tired today.,sad,en,twitter,technology
+65,This made my day so much better.,happy,en,google_reviews,health
+2873,Everything feels perfect right now.,joy,en,twitter,shopping
+1947,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,entertainment
+3270,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,technology
+124,This made my day so much better.,happy,en,amazon,shopping
+3294,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,news,entertainment
+2907,I am enjoying every second of this.,joy,en,twitter,health
+1837,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,health
+345,I feel really low and tired today.,sad,en,amazon,shopping
+3570,यह समझना बहुत मुश्किल है।,confusion,hi,google_reviews,shopping
+1329,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,news,technology
+2909,This moment brings me pure joy.,joy,en,news,education
+2935,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,education
+2612,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,technology
+1775,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,health
+234,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,twitter,technology
+332,It's been a hard day for me.,sad,en,twitter,shopping
+2325,I feel confident about this.,trust,en,reddit,technology
+2675,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,entertainment
+2020,This means a lot to me.,love,en,amazon,education
+3021,The event took place as scheduled.,neutral,en,google_reviews,education
+646,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,education
+504,Nothing seems to be going right.,sad,en,news,technology
+2849,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,shopping
+959,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,education
+2314,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,health
+828,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,entertainment
+2905,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,education
+1507,This is really unpleasant to see.,disgust,en,amazon,health
+417,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,education
+3098,This is a regular update.,neutral,en,news,education
+174,I feel really happy about how things turned out today.,happy,en,amazon,education
+2512,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,entertainment
+988,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,education
+1536,That behavior was disgusting.,disgust,en,news,shopping
+2237,I feel confident about this.,trust,en,google_reviews,health
+2530,I can't wait for this to happen.,anticipation,en,news,technology
+1118,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+719,This is completely unacceptable.,angry,en,reddit,entertainment
+3456,This is hard to understand.,confusion,en,reddit,shopping
+2759,I am enjoying every second of this.,joy,en,twitter,entertainment
+3432,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,technology
+2095,यह मेरे लिए बहुत मायने रखता है।,love,hi,twitter,education
+2269,I feel confident about this.,trust,en,news,shopping
+619,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,technology
+1428,"Wow, this is unexpected.",surprise,en,news,health
+460,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,technology
+1972,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,entertainment
+28,Everything feels bright and positive right now.,happy,en,news,entertainment
+1566,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,technology
+2432,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,entertainment
+1787,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,reddit,entertainment
+1733,That behavior was disgusting.,disgust,en,reddit,entertainment
+2801,I am enjoying every second of this.,joy,en,twitter,health
+3285,The event took place as scheduled.,neutral,en,twitter,technology
+2234,I believe in what you are saying.,trust,en,news,shopping
+146,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,education
+1402,"Wow, this is unexpected.",surprise,en,amazon,health
+2188,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,technology
+1938,यह मेरे लिए बहुत मायने रखता है।,love,hi,news,health
+3457,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,technology
+1658,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,shopping
+851,This is completely unacceptable.,angry,en,amazon,shopping
+2306,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,shopping
+3138,The event took place as scheduled.,neutral,en,amazon,entertainment
+3276,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,shopping
+1265,"Wow, this is unexpected.",surprise,en,news,health
+723,I can't believe this happened again.,angry,en,amazon,education
+2917,Everything feels perfect right now.,joy,en,twitter,entertainment
+2150,This makes me feel secure.,trust,en,amazon,entertainment
+2151,मुझे आपकी बात पर भरोसा है।,trust,hi,reddit,shopping
+2357,I believe in what you are saying.,trust,en,reddit,shopping
+633,This is completely unacceptable.,angry,en,twitter,shopping
+1109,This situation makes me feel unsafe.,fear,en,google_reviews,technology
+2558,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,entertainment
+1807,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,entertainment
+2361,I believe in what you are saying.,trust,en,news,shopping
+873,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,education
+3813,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,shopping
+526,It's been a hard day for me.,sad,en,amazon,entertainment
+3096,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,health
+3536,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,entertainment
+2705,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,google_reviews,health
+1229,I did not expect this at all.,surprise,en,news,education
+780,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,education
+3333,This is hard to understand.,confusion,en,news,education
+3529,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,health
+3375,This is hard to understand.,confusion,en,amazon,entertainment
+856,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,entertainment
+1970,This means a lot to me.,love,en,twitter,education
+3166,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,twitter,health
+2459,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,education
+1927,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+93,Everything feels bright and positive right now.,happy,en,google_reviews,shopping
+58,I feel really happy about how things turned out today.,happy,en,google_reviews,education
+3805,I keep trying and failing.,frustration,en,reddit,entertainment
+1036,I am scared about what might happen next.,fear,en,twitter,health
+2445,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,education
+388,Nothing seems to be going right.,sad,en,news,health
+1548,This is really unpleasant to see.,disgust,en,reddit,technology
+2199,I believe in what you are saying.,trust,en,twitter,shopping
+1160,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,news,shopping
+1029,I keep worrying about the future.,fear,en,reddit,education
+2053,I truly care about you.,love,en,amazon,shopping
+338,Nothing seems to be going right.,sad,en,amazon,education
+1246,"Wow, this is unexpected.",surprise,en,amazon,entertainment
+494,It's been a hard day for me.,sad,en,news,health
+3709,I keep trying and failing.,frustration,en,twitter,entertainment
+379,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,technology
+451,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+3228,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,google_reviews,entertainment
+1410,That was a big surprise for me.,surprise,en,news,health
+25,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,education
+3460,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,shopping
+2302,मुझे आपकी बात पर भरोसा है।,trust,hi,amazon,shopping
+1665,That behavior was disgusting.,disgust,en,amazon,entertainment
+2978,This moment brings me pure joy.,joy,en,google_reviews,technology
+1946,This means a lot to me.,love,en,twitter,health
+1834,यह मेरे लिए बहुत मायने रखता है।,love,hi,twitter,shopping
+357,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,health
+3646,I keep trying and failing.,frustration,en,twitter,health
+3141,The event took place as scheduled.,neutral,en,google_reviews,shopping
+1565,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,technology
+1986,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,entertainment
+1269,That was a big surprise for me.,surprise,en,amazon,technology
+3509,I feel lost about this.,confusion,en,news,shopping
+3438,This is hard to understand.,confusion,en,amazon,entertainment
+1797,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,health
+3558,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,education
+1877,I truly care about you.,love,en,news,shopping
+1509,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,entertainment
+1571,I feel sick thinking about this.,disgust,en,amazon,education
+232,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,health
+1419,"Wow, this is unexpected.",surprise,en,reddit,shopping
+2546,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,health
+70,This made my day so much better.,happy,en,reddit,entertainment
+397,Nothing seems to be going right.,sad,en,reddit,education
+551,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,shopping
+1702,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,technology
+2268,This makes me feel secure.,trust,en,google_reviews,shopping
+2656,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,technology
+837,I am very angry about what happened.,angry,en,google_reviews,shopping
+390,It's been a hard day for me.,sad,en,google_reviews,shopping
+3453,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,google_reviews,technology
+951,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,technology
+3591,I am not sure what this means.,confusion,en,news,entertainment
+3649,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,shopping
+235,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,shopping
+315,I feel really low and tired today.,sad,en,news,technology
+1379,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,education
+2646,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,shopping
+3693,This is getting very annoying.,frustration,en,amazon,technology
+2380,I believe in what you are saying.,trust,en,reddit,shopping
+3273,This is a regular update.,neutral,en,twitter,entertainment
+2037,यह मेरे लिए बहुत मायने रखता है।,love,hi,amazon,technology
+3495,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,technology
+2431,I can't wait for this to happen.,anticipation,en,amazon,technology
+2542,There is a lot of excitement inside me.,anticipation,en,reddit,health
+1235,That was a big surprise for me.,surprise,en,twitter,health
+3854,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,health
+452,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,entertainment
+157,Everything feels bright and positive right now.,happy,en,news,shopping
+2808,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,news,shopping
+3121,This is a regular update.,neutral,en,reddit,education
+1268,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,technology
+3652,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,entertainment
+2370,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,education
+253,Everything feels bright and positive right now.,happy,en,google_reviews,health
+1408,"Wow, this is unexpected.",surprise,en,amazon,health
+3288,This is a regular update.,neutral,en,news,entertainment
+1194,This situation makes me feel unsafe.,fear,en,twitter,shopping
+2723,I am enjoying every second of this.,joy,en,reddit,shopping
+54,Everything feels bright and positive right now.,happy,en,reddit,health
+3445,This is hard to understand.,confusion,en,google_reviews,shopping
+2908,Everything feels perfect right now.,joy,en,twitter,health
+3351,I feel lost about this.,confusion,en,google_reviews,technology
+346,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,education
+2220,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,technology
+2964,Everything feels perfect right now.,joy,en,amazon,health
+2572,मेरे अंदर बहुत उत्साह है।,anticipation,hi,google_reviews,entertainment
+1809,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,shopping
+2728,Everything feels perfect right now.,joy,en,reddit,education
+3769,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,health
+3206,The event took place as scheduled.,neutral,en,twitter,education
+2519,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,health
+3612,Nothing seems to be working.,frustration,en,reddit,shopping
+3088,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,twitter,shopping
+659,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,education
+3177,This is a regular update.,neutral,en,twitter,entertainment
+3280,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,entertainment
+2977,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,shopping
+3839,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,technology
+895,I can't believe this happened again.,angry,en,google_reviews,technology
+2180,I feel confident about this.,trust,en,reddit,shopping
+2074,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,entertainment
+2424,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,health
+3784,I keep trying and failing.,frustration,en,amazon,shopping
+3801,This is getting very annoying.,frustration,en,amazon,technology
+545,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,education
+447,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,entertainment
+2872,Everything feels perfect right now.,joy,en,news,shopping
+2125,I feel confident about this.,trust,en,reddit,shopping
+407,I feel really low and tired today.,sad,en,reddit,entertainment
+640,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,education
+1736,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,health
+3215,यह एक सामान्य अपडेट है।,neutral,hi,google_reviews,technology
+656,This is completely unacceptable.,angry,en,reddit,technology
+3377,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,amazon,health
+3355,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,health
+1086,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,news,education
+2913,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,technology
+3291,This is a regular update.,neutral,en,google_reviews,technology
+2141,I feel confident about this.,trust,en,twitter,education
+1764,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,health
+17,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,news,education
+858,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,shopping
+1595,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,technology
+1514,This is really unpleasant to see.,disgust,en,google_reviews,technology
+3365,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,technology
+2916,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,technology
+3183,This is a regular update.,neutral,en,twitter,education
+2724,Everything feels perfect right now.,joy,en,amazon,shopping
+894,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,education
+705,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,entertainment
+3089,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,entertainment
+1482,That was a big surprise for me.,surprise,en,google_reviews,education
+547,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,news,technology
+1144,I keep worrying about the future.,fear,en,twitter,technology
+156,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,health
+318,It's been a hard day for me.,sad,en,news,health
+1583,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,technology
+5,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,health
+3802,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,amazon,shopping
+1974,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,education
+3254,The event took place as scheduled.,neutral,en,google_reviews,health
+2291,I believe in what you are saying.,trust,en,amazon,health
+2400,I feel confident about this.,trust,en,amazon,technology
+284,Everything feels bright and positive right now.,happy,en,google_reviews,health
+99,This made my day so much better.,happy,en,twitter,technology
+717,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,technology
+3729,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,education
+2606,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,shopping
+2746,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,news,education
+1156,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+2767,I am enjoying every second of this.,joy,en,twitter,education
+3290,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,entertainment
+2345,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,shopping
+3363,I feel lost about this.,confusion,en,amazon,health
+2472,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,education
+319,Nothing seems to be going right.,sad,en,news,technology
+1415,That was a big surprise for me.,surprise,en,google_reviews,technology
+1783,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,education
+671,I am very angry about what happened.,angry,en,twitter,health
+2509,I can't wait for this to happen.,anticipation,en,google_reviews,technology
+1468,That was a big surprise for me.,surprise,en,google_reviews,technology
+613,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,google_reviews,health
+865,This is completely unacceptable.,angry,en,twitter,shopping
+1271,That was a big surprise for me.,surprise,en,amazon,health
+1368,"Wow, this is unexpected.",surprise,en,reddit,entertainment
+1735,I feel sick thinking about this.,disgust,en,twitter,technology
+847,This is completely unacceptable.,angry,en,amazon,entertainment
+336,Nothing seems to be going right.,sad,en,reddit,shopping
+874,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,health
+2283,मुझे आपकी बात पर भरोसा है।,trust,hi,news,shopping
+461,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,google_reviews,shopping
+3125,यह एक सामान्य अपडेट है।,neutral,hi,google_reviews,education
+3547,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,health
+696,I can't believe this happened again.,angry,en,amazon,shopping
+848,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,technology
+364,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,health
+1407,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,education
+94,Everything feels bright and positive right now.,happy,en,amazon,technology
+1196,This situation makes me feel unsafe.,fear,en,amazon,shopping
+1226,That was a big surprise for me.,surprise,en,google_reviews,entertainment
+455,Nothing seems to be going right.,sad,en,twitter,entertainment
+530,कुछ भी सही नहीं लग रहा है।,sad,hi,reddit,entertainment
+522,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,education
+3287,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,entertainment
+3307,This is hard to understand.,confusion,en,twitter,health
+2991,This moment brings me pure joy.,joy,en,reddit,technology
+1243,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,education
+2233,मुझे इस पर पूरा विश्वास है।,trust,hi,news,health
+2354,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,shopping
+2092,My heart feels full right now.,love,en,amazon,entertainment
+2365,This makes me feel secure.,trust,en,google_reviews,technology
+846,I am very angry about what happened.,angry,en,news,entertainment
+3282,Everything is proceeding as planned.,neutral,en,google_reviews,shopping
+112,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,technology
+3710,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,entertainment
+3483,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,health
+787,I am very angry about what happened.,angry,en,amazon,shopping
+2533,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,entertainment
+2973,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,technology
+2529,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+20,This made my day so much better.,happy,en,reddit,technology
+3615,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,education
+1802,I truly care about you.,love,en,news,entertainment
+808,I can't believe this happened again.,angry,en,amazon,health
+792,I can't believe this happened again.,angry,en,twitter,entertainment
+1176,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+2998,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,health
+1734,This is really unpleasant to see.,disgust,en,google_reviews,technology
+3234,यह एक सामान्य अपडेट है।,neutral,hi,reddit,education
+1995,My heart feels full right now.,love,en,google_reviews,shopping
+897,I am very angry about what happened.,angry,en,reddit,technology
+1319,"Wow, this is unexpected.",surprise,en,news,technology
+2477,There is a lot of excitement inside me.,anticipation,en,reddit,health
+1564,That behavior was disgusting.,disgust,en,reddit,entertainment
+2668,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,technology
+2447,I am really looking forward to what comes next.,anticipation,en,amazon,health
+3296,The event took place as scheduled.,neutral,en,news,technology
+2418,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,health
+1647,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,entertainment
+3262,This is a regular update.,neutral,en,twitter,technology
+3396,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,health
+2056,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,education
+3038,Everything is proceeding as planned.,neutral,en,twitter,education
+620,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,education
+207,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,technology
+1423,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,education
+2394,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,health
+2295,This makes me feel secure.,trust,en,google_reviews,education
+2560,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,health
+441,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,reddit,technology
+1993,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,entertainment
+1795,That behavior was disgusting.,disgust,en,google_reviews,technology
+170,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,health
+1933,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,technology
+1304,That was a big surprise for me.,surprise,en,google_reviews,technology
+3093,Everything is proceeding as planned.,neutral,en,reddit,shopping
+1743,This is really unpleasant to see.,disgust,en,google_reviews,technology
+259,This made my day so much better.,happy,en,reddit,entertainment
+2868,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,entertainment
+3394,I feel lost about this.,confusion,en,twitter,health
+2319,I feel confident about this.,trust,en,google_reviews,entertainment
+815,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,entertainment
+114,I feel really happy about how things turned out today.,happy,en,reddit,entertainment
+1908,My heart feels full right now.,love,en,twitter,shopping
+3032,यह एक सामान्य अपडेट है।,neutral,hi,reddit,education
+893,I can't believe this happened again.,angry,en,amazon,health
+3133,The event took place as scheduled.,neutral,en,twitter,health
+3808,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,amazon,technology
+916,I keep worrying about the future.,fear,en,news,entertainment
+3388,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,entertainment
+3259,This is a regular update.,neutral,en,news,technology
+3900,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,shopping
+776,I can't believe this happened again.,angry,en,reddit,health
+980,This situation makes me feel unsafe.,fear,en,google_reviews,technology
+1127,This situation makes me feel unsafe.,fear,en,news,shopping
+333,कुछ भी सही नहीं लग रहा है।,sad,hi,news,education
+536,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,google_reviews,entertainment
+275,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,technology
+3796,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,shopping
+2669,I can't wait for this to happen.,anticipation,en,google_reviews,education
+2757,This moment brings me pure joy.,joy,en,news,shopping
+3711,Nothing seems to be working.,frustration,en,google_reviews,education
+1340,I did not expect this at all.,surprise,en,reddit,health
+1905,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,education
+3360,I am not sure what this means.,confusion,en,amazon,technology
+2921,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,education
+3052,The event took place as scheduled.,neutral,en,news,education
+559,Nothing seems to be going right.,sad,en,amazon,education
+1056,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,reddit,education
+2590,I can't wait for this to happen.,anticipation,en,twitter,shopping
+3601,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,twitter,technology
+1462,"Wow, this is unexpected.",surprise,en,reddit,shopping
+3158,यह एक सामान्य अपडेट है।,neutral,hi,amazon,technology
+2304,I believe in what you are saying.,trust,en,amazon,entertainment
+3852,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,health
+3653,I keep trying and failing.,frustration,en,reddit,education
+2152,I believe in what you are saying.,trust,en,amazon,health
+3415,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,health
+1009,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,twitter,education
+2523,मेरे अंदर बहुत उत्साह है।,anticipation,hi,news,technology
+943,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,reddit,entertainment
+2954,I am enjoying every second of this.,joy,en,reddit,education
+3862,This is getting very annoying.,frustration,en,reddit,entertainment
+380,Nothing seems to be going right.,sad,en,amazon,shopping
+1639,That behavior was disgusting.,disgust,en,twitter,health
+2984,I am enjoying every second of this.,joy,en,twitter,education
+1838,My heart feels full right now.,love,en,reddit,entertainment
+706,I can't believe this happened again.,angry,en,amazon,shopping
+3629,I keep trying and failing.,frustration,en,twitter,technology
+2413,मेरे अंदर बहुत उत्साह है।,anticipation,hi,google_reviews,shopping
+2216,I feel confident about this.,trust,en,news,health
+1445,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,shopping
+1682,I feel sick thinking about this.,disgust,en,twitter,education
+3583,I am not sure what this means.,confusion,en,google_reviews,health
+2796,Everything feels perfect right now.,joy,en,twitter,entertainment
+1550,I feel sick thinking about this.,disgust,en,amazon,education
+1085,I keep worrying about the future.,fear,en,twitter,entertainment
+3156,The event took place as scheduled.,neutral,en,google_reviews,technology
+1760,That behavior was disgusting.,disgust,en,amazon,education
+597,Nothing seems to be going right.,sad,en,news,entertainment
+219,I feel really happy about how things turned out today.,happy,en,news,entertainment
+3144,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,education
+2760,This moment brings me pure joy.,joy,en,twitter,entertainment
+516,I feel really low and tired today.,sad,en,reddit,entertainment
+3788,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,shopping
+2109,This makes me feel secure.,trust,en,google_reviews,health
+1885,My heart feels full right now.,love,en,reddit,entertainment
+1472,I did not expect this at all.,surprise,en,reddit,shopping
+1211,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,education
+3271,The event took place as scheduled.,neutral,en,news,technology
+3584,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,google_reviews,entertainment
+1239,That was a big surprise for me.,surprise,en,amazon,shopping
+1354,I did not expect this at all.,surprise,en,twitter,health
+974,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,technology
+2002,I truly care about you.,love,en,news,entertainment
+2711,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,twitter,education
+1750,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,education
+3678,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,entertainment
+2667,मेरे अंदर बहुत उत्साह है।,anticipation,hi,reddit,technology
+2914,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,health
+2075,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,technology
+1902,This means a lot to me.,love,en,amazon,entertainment
+2706,Everything feels perfect right now.,joy,en,amazon,entertainment
+3065,The event took place as scheduled.,neutral,en,news,health
+486,I feel really low and tired today.,sad,en,twitter,education
+1961,My heart feels full right now.,love,en,news,shopping
+3152,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,technology
+2048,My heart feels full right now.,love,en,reddit,health
+1669,That behavior was disgusting.,disgust,en,amazon,shopping
+931,I keep worrying about the future.,fear,en,twitter,health
+3196,This is a regular update.,neutral,en,google_reviews,technology
+3696,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,technology
+1116,I am scared about what might happen next.,fear,en,reddit,health
+2368,This makes me feel secure.,trust,en,amazon,entertainment
+1890,My heart feels full right now.,love,en,amazon,technology
+2259,I believe in what you are saying.,trust,en,reddit,health
+2011,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,shopping
+2288,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,entertainment
+877,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,entertainment
+2900,Everything feels perfect right now.,joy,en,google_reviews,technology
+3071,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,health
+176,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,health
+2583,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+3760,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,shopping
+1443,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,entertainment
+2146,I believe in what you are saying.,trust,en,reddit,shopping
+2439,There is a lot of excitement inside me.,anticipation,en,amazon,entertainment
+881,I am very angry about what happened.,angry,en,reddit,entertainment
+1479,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,health
+1954,This means a lot to me.,love,en,amazon,entertainment
+1725,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,shopping
+3227,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,shopping
+3424,I am not sure what this means.,confusion,en,news,technology
+1952,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,entertainment
+1197,This situation makes me feel unsafe.,fear,en,google_reviews,education
+3699,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,technology
+3326,I am not sure what this means.,confusion,en,amazon,shopping
+3610,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,entertainment
+250,I feel really happy about how things turned out today.,happy,en,twitter,shopping
+3170,Everything is proceeding as planned.,neutral,en,twitter,entertainment
+2658,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,education
+1230,"Wow, this is unexpected.",surprise,en,reddit,technology
+1784,I feel sick thinking about this.,disgust,en,twitter,education
+1792,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,technology
+3685,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,entertainment
+1994,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,technology
+3639,I keep trying and failing.,frustration,en,amazon,health
+2645,I can't wait for this to happen.,anticipation,en,news,shopping
+3537,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,education
+2860,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,shopping
+2877,Everything feels perfect right now.,joy,en,google_reviews,entertainment
+3471,I am not sure what this means.,confusion,en,twitter,education
+2726,This moment brings me pure joy.,joy,en,amazon,technology
+907,I keep worrying about the future.,fear,en,twitter,education
+2441,मेरे अंदर बहुत उत्साह है।,anticipation,hi,twitter,education
+3017,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,education
+1077,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,technology
+2301,This makes me feel secure.,trust,en,news,shopping
+2961,Everything feels perfect right now.,joy,en,twitter,entertainment
+962,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,technology
+1985,I truly care about you.,love,en,reddit,shopping
+1602,This is really unpleasant to see.,disgust,en,amazon,technology
+2654,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+845,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,news,shopping
+1119,I am scared about what might happen next.,fear,en,google_reviews,shopping
+2332,This makes me feel secure.,trust,en,amazon,technology
+2601,I can't wait for this to happen.,anticipation,en,amazon,entertainment
+1558,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,amazon,education
+637,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,health
+1042,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,entertainment
+2554,I am really looking forward to what comes next.,anticipation,en,twitter,education
+966,I keep worrying about the future.,fear,en,news,health
+59,Everything feels bright and positive right now.,happy,en,twitter,entertainment
+2481,There is a lot of excitement inside me.,anticipation,en,google_reviews,education
+266,I feel really happy about how things turned out today.,happy,en,twitter,education
+2866,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,technology
+2652,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,shopping
+3328,I am not sure what this means.,confusion,en,amazon,health
+3422,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,education
+140,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,entertainment
+185,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,twitter,education
+2755,Everything feels perfect right now.,joy,en,google_reviews,education
+115,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,education
+3620,Nothing seems to be working.,frustration,en,google_reviews,education
+2494,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,entertainment
+3838,This is getting very annoying.,frustration,en,twitter,technology
+3068,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,health
+145,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,amazon,technology
+701,I can't believe this happened again.,angry,en,twitter,shopping
+1981,This means a lot to me.,love,en,amazon,entertainment
+861,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,reddit,entertainment
+2454,There is a lot of excitement inside me.,anticipation,en,reddit,technology
+732,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,shopping
+1216,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,entertainment
+24,Everything feels bright and positive right now.,happy,en,twitter,shopping
+1088,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,health
+1655,This is really unpleasant to see.,disgust,en,amazon,shopping
+1771,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,technology
+3155,यह एक सामान्य अपडेट है।,neutral,hi,amazon,entertainment
+863,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,education
+2884,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,entertainment
+3831,This is getting very annoying.,frustration,en,news,technology
+1437,That was a big surprise for me.,surprise,en,google_reviews,shopping
+2374,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,education
+511,I feel really low and tired today.,sad,en,reddit,education
+1576,This is really unpleasant to see.,disgust,en,reddit,technology
+1414,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,education
+444,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,google_reviews,health
+2343,मुझे आपकी बात पर भरोसा है।,trust,hi,twitter,entertainment
+1973,My heart feels full right now.,love,en,amazon,education
+283,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,entertainment
+1418,"Wow, this is unexpected.",surprise,en,amazon,entertainment
+3506,I feel lost about this.,confusion,en,google_reviews,technology
+2851,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,health
+308,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,entertainment
+2867,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,shopping
+1721,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,shopping
+105,This made my day so much better.,happy,en,twitter,entertainment
+3268,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,google_reviews,health
+1828,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,technology
+489,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,google_reviews,shopping
+2539,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,education
+1097,I am scared about what might happen next.,fear,en,google_reviews,health
+2061,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,health
+1317,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,entertainment
+2334,I believe in what you are saying.,trust,en,reddit,technology
+1836,This means a lot to me.,love,en,reddit,technology
+1722,I feel sick thinking about this.,disgust,en,reddit,shopping
+838,This is completely unacceptable.,angry,en,amazon,technology
+2407,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,technology
+2282,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,education
+164,Everything feels bright and positive right now.,happy,en,google_reviews,technology
+1926,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,technology
+2600,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,shopping
+2693,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,health
+1219,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,technology
+160,Everything feels bright and positive right now.,happy,en,google_reviews,technology
+2662,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,health
+2510,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,health
+2103,I believe in what you are saying.,trust,en,news,health
+1716,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,reddit,health
+964,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,education
+2719,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,technology
+558,It's been a hard day for me.,sad,en,google_reviews,technology
+1053,I am scared about what might happen next.,fear,en,reddit,health
+2423,There is a lot of excitement inside me.,anticipation,en,reddit,entertainment
+459,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,entertainment
+1691,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,entertainment
+55,I feel really happy about how things turned out today.,happy,en,reddit,entertainment
+3580,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,education
+118,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,education
+1034,I keep worrying about the future.,fear,en,reddit,entertainment
+2995,Everything feels perfect right now.,joy,en,twitter,education
+2112,I believe in what you are saying.,trust,en,amazon,shopping
+107,Everything feels bright and positive right now.,happy,en,amazon,entertainment
+2682,I am really looking forward to what comes next.,anticipation,en,google_reviews,technology
+374,Nothing seems to be going right.,sad,en,news,education
+2212,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,technology
+2121,मुझे आपकी बात पर भरोसा है।,trust,hi,news,entertainment
+3782,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,entertainment
+1755,That behavior was disgusting.,disgust,en,google_reviews,health
+3079,This is a regular update.,neutral,en,reddit,shopping
+2638,There is a lot of excitement inside me.,anticipation,en,twitter,education
+2102,I believe in what you are saying.,trust,en,amazon,health
+3143,The event took place as scheduled.,neutral,en,amazon,shopping
+1948,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,education
+3256,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,entertainment
+3551,I am not sure what this means.,confusion,en,twitter,education
+418,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,twitter,technology
+2623,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,entertainment
+1274,I did not expect this at all.,surprise,en,twitter,health
+3408,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,education
+3200,This is a regular update.,neutral,en,reddit,shopping
+1141,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,technology
+1121,This situation makes me feel unsafe.,fear,en,news,entertainment
+1476,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,health
+2694,I am really looking forward to what comes next.,anticipation,en,google_reviews,technology
+3104,The event took place as scheduled.,neutral,en,news,education
+2722,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,technology
+3844,This is getting very annoying.,frustration,en,news,education
+270,I feel really happy about how things turned out today.,happy,en,amazon,health
+1204,That was a big surprise for me.,surprise,en,reddit,entertainment
+180,I feel really happy about how things turned out today.,happy,en,reddit,shopping
+2571,I can't wait for this to happen.,anticipation,en,google_reviews,health
+1531,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,entertainment
+1698,यह व्यवहार बहुत ही घृणित था।,disgust,hi,twitter,entertainment
+1612,I feel sick thinking about this.,disgust,en,news,education
+1023,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,reddit,technology
+1250,That was a big surprise for me.,surprise,en,google_reviews,entertainment
+2381,I feel confident about this.,trust,en,google_reviews,education
+1714,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,technology
+1815,My heart feels full right now.,love,en,twitter,shopping
+2416,मेरे अंदर बहुत उत्साह है।,anticipation,hi,reddit,technology
+1964,I truly care about you.,love,en,amazon,shopping
+1401,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,entertainment
+1263,I did not expect this at all.,surprise,en,google_reviews,shopping
+1709,This is really unpleasant to see.,disgust,en,reddit,entertainment
+1896,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,health
+2312,I feel confident about this.,trust,en,twitter,shopping
+2850,Everything feels perfect right now.,joy,en,google_reviews,education
+1350,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,education
+2367,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,shopping
+3608,I keep trying and failing.,frustration,en,reddit,technology
+2359,I believe in what you are saying.,trust,en,news,shopping
+690,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,health
+1397,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,news,education
+598,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,shopping
+1061,This situation makes me feel unsafe.,fear,en,news,shopping
+1293,"Wow, this is unexpected.",surprise,en,reddit,shopping
+2339,I believe in what you are saying.,trust,en,news,health
+2692,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,shopping
+942,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,education
+103,Everything feels bright and positive right now.,happy,en,news,entertainment
+1541,That behavior was disgusting.,disgust,en,reddit,technology
+151,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,twitter,health
+2925,I am enjoying every second of this.,joy,en,google_reviews,technology
+1895,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,entertainment
+307,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,entertainment
+2017,My heart feels full right now.,love,en,news,entertainment
+3323,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,health
+375,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,education
+2975,This moment brings me pure joy.,joy,en,news,education
+905,I am scared about what might happen next.,fear,en,amazon,health
+2262,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,health
+1273,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,shopping
+2938,Everything feels perfect right now.,joy,en,news,technology
+721,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,education
+498,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,education
+2143,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,health
+3237,The event took place as scheduled.,neutral,en,news,health
+3703,This is getting very annoying.,frustration,en,amazon,health
+3223,यह एक सामान्य अपडेट है।,neutral,hi,twitter,shopping
+2879,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,entertainment
+288,I feel really happy about how things turned out today.,happy,en,news,entertainment
+807,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+281,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,reddit,shopping
+2267,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,education
+1054,This situation makes me feel unsafe.,fear,en,amazon,technology
+2378,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,health
+1521,यह देखना बहुत ही घिनौना है।,disgust,hi,news,shopping
+229,This made my day so much better.,happy,en,amazon,health
+2861,Everything feels perfect right now.,joy,en,amazon,education
+1701,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,shopping
+3213,The event took place as scheduled.,neutral,en,amazon,shopping
+3086,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,entertainment
+3062,The event took place as scheduled.,neutral,en,twitter,health
+1646,That behavior was disgusting.,disgust,en,twitter,health
+1110,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,news,education
+662,I am very angry about what happened.,angry,en,reddit,entertainment
+1699,This is really unpleasant to see.,disgust,en,twitter,entertainment
+3645,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,entertainment
+993,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,twitter,shopping
+1348,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,shopping
+2495,I am really looking forward to what comes next.,anticipation,en,news,health
+1817,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,health
+2474,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,education
+83,I feel really happy about how things turned out today.,happy,en,amazon,entertainment
+6,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,news,health
+2190,I feel confident about this.,trust,en,google_reviews,shopping
+500,Nothing seems to be going right.,sad,en,twitter,shopping
+361,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,health
+3056,यह एक सामान्य अपडेट है।,neutral,hi,news,entertainment
+857,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,news,entertainment
+756,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,education
+563,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,news,entertainment
+1636,This is really unpleasant to see.,disgust,en,amazon,shopping
+2972,Everything feels perfect right now.,joy,en,google_reviews,technology
+1387,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,amazon,technology
+3095,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,technology
+793,I am very angry about what happened.,angry,en,news,technology
+1697,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,technology
+3366,I am not sure what this means.,confusion,en,news,shopping
+1145,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,reddit,technology
+2206,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,entertainment
+1949,I truly care about you.,love,en,twitter,technology
+3447,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,reddit,technology
+2699,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+3899,Nothing seems to be working.,frustration,en,news,shopping
+2139,I feel confident about this.,trust,en,news,technology
+833,I am very angry about what happened.,angry,en,google_reviews,entertainment
+2093,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,shopping
+592,It's been a hard day for me.,sad,en,reddit,entertainment
+582,It's been a hard day for me.,sad,en,twitter,shopping
+271,I feel really happy about how things turned out today.,happy,en,news,education
+2777,This moment brings me pure joy.,joy,en,news,education
+967,I am scared about what might happen next.,fear,en,twitter,entertainment
+8,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,education
+3631,I keep trying and failing.,frustration,en,twitter,shopping
+3001,The event took place as scheduled.,neutral,en,twitter,entertainment
+2547,There is a lot of excitement inside me.,anticipation,en,amazon,technology
+403,It's been a hard day for me.,sad,en,news,technology
+1452,I did not expect this at all.,surprise,en,google_reviews,entertainment
+829,I am very angry about what happened.,angry,en,twitter,entertainment
+1630,This is really unpleasant to see.,disgust,en,news,shopping
+3658,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,shopping
+2838,This moment brings me pure joy.,joy,en,amazon,shopping
+767,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,health
+2725,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,education
+1256,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,health
+1345,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,technology
+1510,यह व्यवहार बहुत ही घृणित था।,disgust,hi,twitter,education
+1538,This is really unpleasant to see.,disgust,en,news,health
+3752,I keep trying and failing.,frustration,en,news,entertainment
+1557,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,health
+3387,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,technology
+854,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,health
+2803,This moment brings me pure joy.,joy,en,twitter,entertainment
+1681,I feel sick thinking about this.,disgust,en,twitter,shopping
+1611,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,technology
+648,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,entertainment
+1267,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,health
+3344,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,health
+3559,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,amazon,technology
+142,Everything feels bright and positive right now.,happy,en,amazon,health
+335,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+1021,I am scared about what might happen next.,fear,en,reddit,education
+1385,"Wow, this is unexpected.",surprise,en,news,technology
+1244,That was a big surprise for me.,surprise,en,twitter,entertainment
+1861,I truly care about you.,love,en,twitter,shopping
+2994,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,twitter,health
+1542,That behavior was disgusting.,disgust,en,twitter,education
+3517,This is hard to understand.,confusion,en,reddit,technology
+1067,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,entertainment
+213,I feel really happy about how things turned out today.,happy,en,news,entertainment
+2177,I believe in what you are saying.,trust,en,twitter,education
+842,I am very angry about what happened.,angry,en,reddit,education
+3436,I am not sure what this means.,confusion,en,news,technology
+653,This is completely unacceptable.,angry,en,google_reviews,entertainment
+3473,This is hard to understand.,confusion,en,amazon,health
+3009,The event took place as scheduled.,neutral,en,news,entertainment
+2642,There is a lot of excitement inside me.,anticipation,en,google_reviews,health
+2567,I am really looking forward to what comes next.,anticipation,en,amazon,shopping
+2392,I feel confident about this.,trust,en,amazon,education
+3361,I feel lost about this.,confusion,en,twitter,technology
+3781,I keep trying and failing.,frustration,en,amazon,education
+704,I am very angry about what happened.,angry,en,amazon,shopping
+3791,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,entertainment
+2674,There is a lot of excitement inside me.,anticipation,en,reddit,entertainment
+735,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,entertainment
+366,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,twitter,entertainment
+1383,That was a big surprise for me.,surprise,en,google_reviews,education
+3756,I keep trying and failing.,frustration,en,amazon,entertainment
+2059,This means a lot to me.,love,en,amazon,technology
+1326,"Wow, this is unexpected.",surprise,en,news,entertainment
+510,I feel really low and tired today.,sad,en,amazon,shopping
+2996,This moment brings me pure joy.,joy,en,twitter,shopping
+2347,I believe in what you are saying.,trust,en,twitter,education
+702,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,shopping
+2175,मुझे इस पर पूरा विश्वास है।,trust,hi,news,health
+3466,I am not sure what this means.,confusion,en,amazon,technology
+1987,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,health
+832,I am very angry about what happened.,angry,en,amazon,entertainment
+217,I feel really happy about how things turned out today.,happy,en,news,shopping
+2703,I am enjoying every second of this.,joy,en,amazon,education
+918,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,technology
+147,I feel really happy about how things turned out today.,happy,en,reddit,health
+3106,The event took place as scheduled.,neutral,en,amazon,technology
+1551,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,education
+493,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,reddit,education
+3210,Everything is proceeding as planned.,neutral,en,amazon,shopping
+153,This made my day so much better.,happy,en,news,education
+3184,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,education
+101,Everything feels bright and positive right now.,happy,en,twitter,technology
+1494,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,entertainment
+2012,This means a lot to me.,love,en,amazon,technology
+1878,This means a lot to me.,love,en,twitter,education
+2003,This means a lot to me.,love,en,amazon,education
+758,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,reddit,technology
+2077,This means a lot to me.,love,en,reddit,technology
+3759,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,technology
+3739,Nothing seems to be working.,frustration,en,news,entertainment
+1492,That was a big surprise for me.,surprise,en,google_reviews,health
+3072,Everything is proceeding as planned.,neutral,en,reddit,shopping
+2901,I am enjoying every second of this.,joy,en,reddit,entertainment
+1765,यह व्यवहार बहुत ही घृणित था।,disgust,hi,amazon,entertainment
+1453,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,health
+2009,मुझे आपकी सच में बहुत परवाह है।,love,hi,news,education
+3176,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,shopping
+890,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,health
+3373,I feel lost about this.,confusion,en,twitter,education
+445,I feel really low and tired today.,sad,en,twitter,health
+626,This is completely unacceptable.,angry,en,news,shopping
+3598,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,health
+1400,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,education
+358,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,health
+406,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,technology
+1090,This situation makes me feel unsafe.,fear,en,reddit,health
+3724,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,health
+2052,मुझे आपकी सच में बहुत परवाह है।,love,hi,news,entertainment
+2451,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,shopping
+1359,I did not expect this at all.,surprise,en,news,technology
+1377,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,entertainment
+2067,This means a lot to me.,love,en,amazon,technology
+1631,यह देखना बहुत ही घिनौना है।,disgust,hi,news,shopping
+3830,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,google_reviews,technology
+729,This is completely unacceptable.,angry,en,reddit,technology
+41,I feel really happy about how things turned out today.,happy,en,news,shopping
+2780,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,entertainment
+1131,This situation makes me feel unsafe.,fear,en,reddit,health
+3123,This is a regular update.,neutral,en,amazon,entertainment
+2856,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,shopping
+3235,यह एक सामान्य अपडेट है।,neutral,hi,reddit,technology
+277,I feel really happy about how things turned out today.,happy,en,google_reviews,shopping
+404,कुछ भी सही नहीं लग रहा है।,sad,hi,reddit,entertainment
+1798,This is really unpleasant to see.,disgust,en,reddit,education
+1794,I feel sick thinking about this.,disgust,en,reddit,shopping
+827,I can't believe this happened again.,angry,en,twitter,education
+978,This situation makes me feel unsafe.,fear,en,twitter,technology
+171,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,health
+2639,I am really looking forward to what comes next.,anticipation,en,news,entertainment
+2390,I feel confident about this.,trust,en,google_reviews,technology
+420,Nothing seems to be going right.,sad,en,amazon,technology
+3187,The event took place as scheduled.,neutral,en,amazon,shopping
+237,This made my day so much better.,happy,en,twitter,technology
+3851,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,entertainment
+941,This situation makes me feel unsafe.,fear,en,reddit,technology
+2491,मेरे अंदर बहुत उत्साह है।,anticipation,hi,google_reviews,technology
+2033,यह मेरे लिए बहुत मायने रखता है।,love,hi,news,education
+2664,I can't wait for this to happen.,anticipation,en,news,entertainment
+831,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,health
+1373,That was a big surprise for me.,surprise,en,amazon,health
+1451,That was a big surprise for me.,surprise,en,amazon,entertainment
+1574,I feel sick thinking about this.,disgust,en,twitter,education
+1318,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,google_reviews,entertainment
+2864,I am enjoying every second of this.,joy,en,amazon,health
+3764,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,technology
+1708,This is really unpleasant to see.,disgust,en,news,health
+2373,I feel confident about this.,trust,en,twitter,technology
+2898,Everything feels perfect right now.,joy,en,twitter,shopping
+663,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,health
+2963,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,health
+3099,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,education
+443,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,reddit,entertainment
+1543,I feel sick thinking about this.,disgust,en,reddit,education
+1664,This is really unpleasant to see.,disgust,en,amazon,entertainment
+3681,Nothing seems to be working.,frustration,en,google_reviews,education
+1070,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,reddit,education
+798,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,reddit,education
+2821,Everything feels perfect right now.,joy,en,news,shopping
+18,This made my day so much better.,happy,en,twitter,entertainment
+1314,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,technology
+2927,Everything feels perfect right now.,joy,en,news,entertainment
+1004,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,education
+378,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,entertainment
+3726,I keep trying and failing.,frustration,en,news,entertainment
+3440,I feel lost about this.,confusion,en,reddit,education
+189,Everything feels bright and positive right now.,happy,en,twitter,technology
+1950,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,education
+1562,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,entertainment
+1956,This means a lot to me.,love,en,amazon,shopping
+3105,यह एक सामान्य अपडेट है।,neutral,hi,twitter,technology
+3274,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,health
+1519,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,education
+960,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,shopping
+248,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,reddit,shopping
+1606,I feel sick thinking about this.,disgust,en,twitter,education
+3605,This is getting very annoying.,frustration,en,twitter,education
+3655,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,shopping
+485,Nothing seems to be going right.,sad,en,google_reviews,technology
+2350,This makes me feel secure.,trust,en,news,education
+3040,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,health
+625,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,entertainment
+2132,This makes me feel secure.,trust,en,amazon,entertainment
+733,This is completely unacceptable.,angry,en,amazon,entertainment
+2607,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,health
+1584,That behavior was disgusting.,disgust,en,news,shopping
+3843,Nothing seems to be working.,frustration,en,news,education
+1264,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,google_reviews,health
+2538,मेरे अंदर बहुत उत्साह है।,anticipation,hi,news,education
+2247,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,technology
+1406,That was a big surprise for me.,surprise,en,news,shopping
+3222,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,shopping
+2659,I can't wait for this to happen.,anticipation,en,reddit,entertainment
+1539,I feel sick thinking about this.,disgust,en,reddit,technology
+272,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,health
+3312,I am not sure what this means.,confusion,en,google_reviews,entertainment
+2616,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,education
+1666,यह व्यवहार बहुत ही घृणित था।,disgust,hi,amazon,education
+520,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,shopping
+2004,My heart feels full right now.,love,en,google_reviews,health
+2817,I am enjoying every second of this.,joy,en,amazon,shopping
+1633,This is really unpleasant to see.,disgust,en,google_reviews,health
+3090,यह एक सामान्य अपडेट है।,neutral,hi,reddit,technology
+1069,I am scared about what might happen next.,fear,en,reddit,technology
+2577,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,education
+1909,I truly care about you.,love,en,news,health
+2769,I am enjoying every second of this.,joy,en,twitter,health
+2200,I believe in what you are saying.,trust,en,news,shopping
+1184,This situation makes me feel unsafe.,fear,en,twitter,technology
+1540,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,health
+3533,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,technology
+2702,Everything feels perfect right now.,joy,en,news,health
+256,This made my day so much better.,happy,en,amazon,technology
+688,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,health
+2313,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,shopping
+231,Everything feels bright and positive right now.,happy,en,amazon,health
+927,I am scared about what might happen next.,fear,en,amazon,shopping
+3538,This is hard to understand.,confusion,en,amazon,education
+2039,My heart feels full right now.,love,en,amazon,health
+3236,This is a regular update.,neutral,en,twitter,technology
+1152,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,twitter,technology
+439,Nothing seems to be going right.,sad,en,reddit,shopping
+377,कुछ भी सही नहीं लग रहा है।,sad,hi,news,technology
+2397,I believe in what you are saying.,trust,en,amazon,health
+1093,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,news,entertainment
+712,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,health
+1914,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,shopping
+2805,This moment brings me pure joy.,joy,en,google_reviews,entertainment
+2210,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,entertainment
+130,This made my day so much better.,happy,en,twitter,health
+972,I keep worrying about the future.,fear,en,twitter,health
+1899,This means a lot to me.,love,en,news,shopping
+2467,There is a lot of excitement inside me.,anticipation,en,google_reviews,health
+2716,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,shopping
+3683,I keep trying and failing.,frustration,en,news,health
+2982,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,education
+240,I feel really happy about how things turned out today.,happy,en,twitter,technology
+3211,This is a regular update.,neutral,en,amazon,technology
+3252,The event took place as scheduled.,neutral,en,google_reviews,entertainment
+395,I feel really low and tired today.,sad,en,amazon,entertainment
+3619,Nothing seems to be working.,frustration,en,amazon,shopping
+567,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,health
+2919,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,google_reviews,technology
+3494,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,amazon,technology
+2751,I am enjoying every second of this.,joy,en,google_reviews,entertainment
+908,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,technology
+3148,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,shopping
+824,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,shopping
+421,Nothing seems to be going right.,sad,en,google_reviews,shopping
+2503,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,health
+2499,I am really looking forward to what comes next.,anticipation,en,amazon,health
+293,Everything feels bright and positive right now.,happy,en,twitter,shopping
+965,This situation makes me feel unsafe.,fear,en,news,health
+2285,This makes me feel secure.,trust,en,google_reviews,technology
+3534,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,reddit,shopping
+2891,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,health
+985,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,news,technology
+1575,I feel sick thinking about this.,disgust,en,reddit,technology
+1031,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+2779,This moment brings me pure joy.,joy,en,reddit,technology
+3112,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,technology
+111,Everything feels bright and positive right now.,happy,en,google_reviews,health
+3845,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,shopping
+3827,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,education
+2104,I believe in what you are saying.,trust,en,google_reviews,shopping
+1535,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,shopping
+204,Everything feels bright and positive right now.,happy,en,google_reviews,health
+1351,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,twitter,health
+34,Everything feels bright and positive right now.,happy,en,reddit,entertainment
+1812,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,shopping
+1214,That was a big surprise for me.,surprise,en,news,entertainment
+2548,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,technology
+1934,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+3780,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,health
+2956,I am enjoying every second of this.,joy,en,twitter,education
+1055,I am scared about what might happen next.,fear,en,google_reviews,technology
+2953,I am enjoying every second of this.,joy,en,reddit,health
+1049,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,entertainment
+1114,This situation makes me feel unsafe.,fear,en,amazon,entertainment
+3833,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,education
+2826,This moment brings me pure joy.,joy,en,amazon,education
+1047,I keep worrying about the future.,fear,en,reddit,health
+2502,I can't wait for this to happen.,anticipation,en,google_reviews,education
+1199,This situation makes me feel unsafe.,fear,en,news,health
+2043,I truly care about you.,love,en,reddit,shopping
+2657,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,education
+2608,मेरे अंदर बहुत उत्साह है।,anticipation,hi,news,education
+698,I can't believe this happened again.,angry,en,google_reviews,technology
+632,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,news,health
+1706,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,health
+75,I feel really happy about how things turned out today.,happy,en,reddit,education
+3063,यह एक सामान्य अपडेट है।,neutral,hi,reddit,health
+3084,Everything is proceeding as planned.,neutral,en,reddit,education
+741,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,technology
+2171,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,technology
+2965,This moment brings me pure joy.,joy,en,news,technology
+2245,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,amazon,entertainment
+3578,I am not sure what this means.,confusion,en,google_reviews,entertainment
+413,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,news,entertainment
+2487,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,health
+774,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,technology
+782,I am very angry about what happened.,angry,en,news,education
+3564,I am not sure what this means.,confusion,en,google_reviews,entertainment
+1435,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,entertainment
+1556,This is really unpleasant to see.,disgust,en,twitter,entertainment
+990,I am scared about what might happen next.,fear,en,news,health
+2633,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,shopping
+1625,I feel sick thinking about this.,disgust,en,news,entertainment
+1349,That was a big surprise for me.,surprise,en,amazon,technology
+1096,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,health
+1205,That was a big surprise for me.,surprise,en,reddit,technology
+3643,I keep trying and failing.,frustration,en,google_reviews,health
+2841,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,education
+875,I can't believe this happened again.,angry,en,reddit,shopping
+1754,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,google_reviews,entertainment
+1228,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,entertainment
+347,It's been a hard day for me.,sad,en,google_reviews,shopping
+2979,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,news,shopping
+2521,I am really looking forward to what comes next.,anticipation,en,google_reviews,education
+869,I can't believe this happened again.,angry,en,twitter,technology
+3055,Everything is proceeding as planned.,neutral,en,reddit,education
+1140,This situation makes me feel unsafe.,fear,en,reddit,technology
+1473,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,technology
+3295,यह एक सामान्य अपडेट है।,neutral,hi,news,health
+2437,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,health
+218,This made my day so much better.,happy,en,amazon,entertainment
+1850,I truly care about you.,love,en,news,health
+3404,I feel lost about this.,confusion,en,google_reviews,health
+1969,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,shopping
+321,I feel really low and tired today.,sad,en,google_reviews,health
+469,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,twitter,entertainment
+1134,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,news,education
+1474,I did not expect this at all.,surprise,en,google_reviews,entertainment
+650,I can't believe this happened again.,angry,en,google_reviews,shopping
+3662,I keep trying and failing.,frustration,en,twitter,education
+339,It's been a hard day for me.,sad,en,reddit,education
+1726,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,entertainment
+2348,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,technology
+3682,I keep trying and failing.,frustration,en,google_reviews,entertainment
+652,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,health
+3520,This is hard to understand.,confusion,en,google_reviews,health
+383,It's been a hard day for me.,sad,en,reddit,entertainment
+575,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,shopping
+467,It's been a hard day for me.,sad,en,twitter,technology
+2562,मेरे अंदर बहुत उत्साह है।,anticipation,hi,google_reviews,technology
+152,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,education
+2138,I feel confident about this.,trust,en,news,entertainment
+2970,I am enjoying every second of this.,joy,en,twitter,education
+938,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,technology
+3613,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,shopping
+764,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,technology
+3816,Nothing seems to be working.,frustration,en,amazon,health
+2215,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,health
+605,I can't believe this happened again.,angry,en,google_reviews,shopping
+3819,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,health
+1627,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,education
+3392,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,entertainment
+263,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,health
+456,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,health
+1759,यह व्यवहार बहुत ही घृणित था।,disgust,hi,twitter,education
+3119,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,shopping
+775,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,google_reviews,education
+2068,This means a lot to me.,love,en,reddit,health
+3704,I keep trying and failing.,frustration,en,news,shopping
+1563,That behavior was disgusting.,disgust,en,twitter,education
+44,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,shopping
+3880,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,entertainment
+3875,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,technology
+3766,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,twitter,technology
+74,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,shopping
+1881,I truly care about you.,love,en,amazon,education
+57,Everything feels bright and positive right now.,happy,en,reddit,entertainment
+2912,I am enjoying every second of this.,joy,en,amazon,technology
+892,I can't believe this happened again.,angry,en,news,technology
+1480,I did not expect this at all.,surprise,en,news,education
+3857,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,technology
+2098,I truly care about you.,love,en,google_reviews,technology
+2834,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,entertainment
+3221,This is a regular update.,neutral,en,google_reviews,entertainment
+1568,यह देखना बहुत ही घिनौना है।,disgust,hi,news,shopping
+2478,I am really looking forward to what comes next.,anticipation,en,news,education
+2737,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,entertainment
+2761,Everything feels perfect right now.,joy,en,news,education
+2971,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,entertainment
+2096,This means a lot to me.,love,en,news,health
+914,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,news,technology
+3810,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,health
+728,I am very angry about what happened.,angry,en,reddit,shopping
+2226,मुझे इस पर पूरा विश्वास है।,trust,hi,news,technology
+1803,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,health
+3687,I keep trying and failing.,frustration,en,news,education
+501,Nothing seems to be going right.,sad,en,news,entertainment
+2790,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,news,shopping
+2624,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,shopping
+172,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,shopping
+1910,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,entertainment
+3120,The event took place as scheduled.,neutral,en,news,technology
+2299,I feel confident about this.,trust,en,twitter,health
+939,I am scared about what might happen next.,fear,en,news,technology
+1505,यह व्यवहार बहुत ही घृणित था।,disgust,hi,amazon,entertainment
+3688,I keep trying and failing.,frustration,en,reddit,shopping
+2685,I am really looking forward to what comes next.,anticipation,en,amazon,entertainment
+1279,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,education
+2231,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,shopping
+2173,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,technology
+1022,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,shopping
+184,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,education
+720,This is completely unacceptable.,angry,en,amazon,education
+1592,This is really unpleasant to see.,disgust,en,reddit,health
+3840,Nothing seems to be working.,frustration,en,twitter,technology
+2811,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,entertainment
+2762,Everything feels perfect right now.,joy,en,news,education
+876,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,education
+3257,Everything is proceeding as planned.,neutral,en,amazon,technology
+1879,I truly care about you.,love,en,amazon,education
+1999,I truly care about you.,love,en,amazon,shopping
+3359,यह समझना बहुत मुश्किल है।,confusion,hi,google_reviews,technology
+1678,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,health
+3596,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,education
+1717,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,shopping
+3807,Nothing seems to be working.,frustration,en,twitter,technology
+2482,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,health
+2157,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,education
+205,Everything feels bright and positive right now.,happy,en,reddit,health
+3041,Everything is proceeding as planned.,neutral,en,twitter,education
+1374,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,google_reviews,shopping
+309,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,news,shopping
+1147,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,education
+3336,I feel lost about this.,confusion,en,google_reviews,education
+1050,I am scared about what might happen next.,fear,en,twitter,education
+2931,This moment brings me pure joy.,joy,en,amazon,technology
+2888,This moment brings me pure joy.,joy,en,twitter,education
+2243,This makes me feel secure.,trust,en,google_reviews,education
+3587,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,health
+3208,Everything is proceeding as planned.,neutral,en,amazon,technology
+3511,I feel lost about this.,confusion,en,reddit,technology
+2097,My heart feels full right now.,love,en,reddit,health
+104,Everything feels bright and positive right now.,happy,en,twitter,shopping
+2508,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,health
+442,It's been a hard day for me.,sad,en,news,education
+1313,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,entertainment
+1561,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,education
+2466,There is a lot of excitement inside me.,anticipation,en,twitter,technology
+3884,I keep trying and failing.,frustration,en,google_reviews,entertainment
+1922,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,health
+528,Nothing seems to be going right.,sad,en,google_reviews,education
+2025,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,entertainment
+1357,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,education
+1518,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,education
+2526,There is a lot of excitement inside me.,anticipation,en,news,shopping
+3714,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,health
+2687,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,technology
+866,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,technology
+3516,I feel lost about this.,confusion,en,news,technology
+3420,I am not sure what this means.,confusion,en,twitter,entertainment
+1876,मुझे आपकी सच में बहुत परवाह है।,love,hi,news,technology
+2944,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,health
+3283,Everything is proceeding as planned.,neutral,en,amazon,education
+1316,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,health
+759,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+1438,I did not expect this at all.,surprise,en,news,entertainment
+2281,मुझे आपकी बात पर भरोसा है।,trust,hi,twitter,shopping
+1533,That behavior was disgusting.,disgust,en,reddit,health
+2592,I can't wait for this to happen.,anticipation,en,google_reviews,technology
+2640,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,shopping
+2489,I can't wait for this to happen.,anticipation,en,amazon,entertainment
+3070,Everything is proceeding as planned.,neutral,en,amazon,education
+903,I keep worrying about the future.,fear,en,twitter,education
+2085,This means a lot to me.,love,en,news,health
+1404,"Wow, this is unexpected.",surprise,en,twitter,health
+42,I feel really happy about how things turned out today.,happy,en,amazon,technology
+90,This made my day so much better.,happy,en,reddit,entertainment
+672,This is completely unacceptable.,angry,en,google_reviews,health
+2497,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,education
+1275,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,technology
+2496,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,news,shopping
+3318,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,health
+2825,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,shopping
+2980,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,education
+1035,I keep worrying about the future.,fear,en,news,entertainment
+2438,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,amazon,shopping
+3343,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,education
+3798,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,shopping
+3600,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,reddit,education
+3082,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,entertainment
+1613,That behavior was disgusting.,disgust,en,google_reviews,entertainment
+2192,I feel confident about this.,trust,en,google_reviews,shopping
+3569,I feel lost about this.,confusion,en,amazon,technology
+1892,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,technology
+1675,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,education
+901,This situation makes me feel unsafe.,fear,en,reddit,technology
+761,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,education
+3267,यह एक सामान्य अपडेट है।,neutral,hi,reddit,shopping
+2169,I feel confident about this.,trust,en,reddit,health
+123,Everything feels bright and positive right now.,happy,en,news,shopping
+3094,Everything is proceeding as planned.,neutral,en,amazon,education
+3882,Nothing seems to be working.,frustration,en,news,shopping
+2383,I feel confident about this.,trust,en,news,education
+3231,This is a regular update.,neutral,en,news,health
+3478,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,health
+1024,I keep worrying about the future.,fear,en,twitter,technology
+1498,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,reddit,health
+812,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,news,health
+2717,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,technology
+3743,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,twitter,technology
+557,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,shopping
+3741,Nothing seems to be working.,frustration,en,twitter,health
+437,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,entertainment
+3327,I feel lost about this.,confusion,en,reddit,education
+3573,This is hard to understand.,confusion,en,news,technology
+330,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,shopping
+2336,मुझे आपकी बात पर भरोसा है।,trust,hi,amazon,health
+102,Everything feels bright and positive right now.,happy,en,news,education
+991,I am scared about what might happen next.,fear,en,twitter,education
+596,कुछ भी सही नहीं लग रहा है।,sad,hi,reddit,health
+1217,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,google_reviews,education
+2385,This makes me feel secure.,trust,en,twitter,technology
+2690,I am really looking forward to what comes next.,anticipation,en,news,entertainment
+800,I am very angry about what happened.,angry,en,amazon,health
+165,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,entertainment
+3194,Everything is proceeding as planned.,neutral,en,news,entertainment
+1062,This situation makes me feel unsafe.,fear,en,amazon,health
+480,It's been a hard day for me.,sad,en,news,entertainment
+1339,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,education
+3004,The event took place as scheduled.,neutral,en,twitter,technology
+1875,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,technology
+1888,My heart feels full right now.,love,en,google_reviews,shopping
+900,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,health
+1757,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,education
+3302,I am not sure what this means.,confusion,en,twitter,technology
+885,This is completely unacceptable.,angry,en,twitter,education
+2136,I feel confident about this.,trust,en,amazon,shopping
+1076,I am scared about what might happen next.,fear,en,twitter,technology
+33,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,education
+2426,I can't wait for this to happen.,anticipation,en,google_reviews,shopping
+3863,Nothing seems to be working.,frustration,en,reddit,shopping
+86,This made my day so much better.,happy,en,twitter,entertainment
+2862,Everything feels perfect right now.,joy,en,google_reviews,education
+1044,I am scared about what might happen next.,fear,en,google_reviews,technology
+1887,I truly care about you.,love,en,twitter,shopping
+1609,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,health
+154,I feel really happy about how things turned out today.,happy,en,twitter,entertainment
+3795,I keep trying and failing.,frustration,en,news,shopping
+1898,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,health
+183,Everything feels bright and positive right now.,happy,en,google_reviews,education
+844,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,reddit,entertainment
+1308,That was a big surprise for me.,surprise,en,reddit,entertainment
+1092,I keep worrying about the future.,fear,en,news,education
+1769,I feel sick thinking about this.,disgust,en,news,entertainment
+3020,यह एक सामान्य अपडेट है।,neutral,hi,twitter,shopping
+1913,My heart feels full right now.,love,en,news,technology
+3487,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,entertainment
+1000,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,news,technology
+2928,This moment brings me pure joy.,joy,en,reddit,technology
+228,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,shopping
+3150,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,education
+1447,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,entertainment
+3198,The event took place as scheduled.,neutral,en,twitter,education
+849,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,technology
+3239,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,google_reviews,education
+925,This situation makes me feel unsafe.,fear,en,google_reviews,shopping
+3421,This is hard to understand.,confusion,en,reddit,shopping
+3391,I feel lost about this.,confusion,en,twitter,technology
+3749,I keep trying and failing.,frustration,en,amazon,shopping
+3330,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,technology
+1240,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,technology
+1390,That was a big surprise for me.,surprise,en,reddit,education
+1193,I am scared about what might happen next.,fear,en,reddit,shopping
+3182,This is a regular update.,neutral,en,news,technology
+141,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,entertainment
+1832,My heart feels full right now.,love,en,news,technology
+296,This made my day so much better.,happy,en,amazon,health
+3010,The event took place as scheduled.,neutral,en,news,shopping
+301,It's been a hard day for me.,sad,en,twitter,education
+3806,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,entertainment
+2410,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,entertainment
+1007,This situation makes me feel unsafe.,fear,en,amazon,technology
+274,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,technology
+3846,I keep trying and failing.,frustration,en,reddit,technology
+3364,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,technology
+1944,This means a lot to me.,love,en,reddit,entertainment
+247,I feel really happy about how things turned out today.,happy,en,news,entertainment
+2030,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,health
+715,I am very angry about what happened.,angry,en,twitter,health
+1773,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,education
+342,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,reddit,entertainment
+3140,Everything is proceeding as planned.,neutral,en,twitter,technology
+3568,I am not sure what this means.,confusion,en,google_reviews,shopping
+432,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,health
+1841,यह मेरे लिए बहुत मायने रखता है।,love,hi,news,technology
+3350,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,technology
+2321,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,technology
+1095,I keep worrying about the future.,fear,en,amazon,technology
+3335,यह समझना बहुत मुश्किल है।,confusion,hi,amazon,health
+2034,This means a lot to me.,love,en,google_reviews,technology
+3582,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,google_reviews,health
+3881,Nothing seems to be working.,frustration,en,news,shopping
+71,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,education
+1430,"Wow, this is unexpected.",surprise,en,news,education
+2697,There is a lot of excitement inside me.,anticipation,en,reddit,entertainment
+3730,This is getting very annoying.,frustration,en,twitter,shopping
+2812,Everything feels perfect right now.,joy,en,news,entertainment
+66,Everything feels bright and positive right now.,happy,en,amazon,education
+841,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,entertainment
+133,Everything feels bright and positive right now.,happy,en,google_reviews,entertainment
+386,Nothing seems to be going right.,sad,en,amazon,education
+912,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,news,education
+2854,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,education
+1936,This means a lot to me.,love,en,reddit,entertainment
+3320,I feel lost about this.,confusion,en,twitter,education
+3216,The event took place as scheduled.,neutral,en,amazon,shopping
+2643,I can't wait for this to happen.,anticipation,en,google_reviews,shopping
+3755,Nothing seems to be working.,frustration,en,reddit,education
+373,I feel really low and tired today.,sad,en,news,entertainment
+1260,"Wow, this is unexpected.",surprise,en,twitter,education
+1679,That behavior was disgusting.,disgust,en,twitter,technology
+1918,I truly care about you.,love,en,reddit,education
+555,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,health
+67,Everything feels bright and positive right now.,happy,en,news,technology
+1617,This is really unpleasant to see.,disgust,en,reddit,shopping
+1943,This means a lot to me.,love,en,twitter,entertainment
+3179,The event took place as scheduled.,neutral,en,twitter,technology
+2744,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,education
+502,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,entertainment
+1608,That behavior was disgusting.,disgust,en,google_reviews,education
+2936,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,google_reviews,entertainment
+2611,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,technology
+1018,This situation makes me feel unsafe.,fear,en,twitter,shopping
+3809,I keep trying and failing.,frustration,en,amazon,entertainment
+506,Nothing seems to be going right.,sad,en,google_reviews,education
+529,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,entertainment
+3869,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,health
+351,I feel really low and tired today.,sad,en,twitter,entertainment
+1431,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,technology
+1276,That was a big surprise for me.,surprise,en,news,education
+600,I feel really low and tired today.,sad,en,news,health
+2110,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,technology
+862,This is completely unacceptable.,angry,en,amazon,technology
+2078,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,shopping
+2186,I believe in what you are saying.,trust,en,google_reviews,education
+290,This made my day so much better.,happy,en,news,shopping
+1052,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,shopping
+325,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,news,technology
+3030,Everything is proceeding as planned.,neutral,en,reddit,technology
+1604,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,technology
+1399,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,technology
+3718,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,education
+3277,Everything is proceeding as planned.,neutral,en,news,education
+588,I feel really low and tired today.,sad,en,reddit,technology
+3418,I feel lost about this.,confusion,en,news,entertainment
+611,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,entertainment
+3193,Everything is proceeding as planned.,neutral,en,twitter,education
+251,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,technology
+1405,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,twitter,shopping
+2252,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,education
+3381,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,amazon,health
+1644,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,shopping
+2393,I believe in what you are saying.,trust,en,reddit,health
+3715,Nothing seems to be working.,frustration,en,news,shopping
+2881,Everything feels perfect right now.,joy,en,amazon,technology
+628,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,reddit,health
+867,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,amazon,education
+3669,I keep trying and failing.,frustration,en,amazon,shopping
+958,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,health
+814,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,entertainment
+2756,Everything feels perfect right now.,joy,en,amazon,education
+3244,The event took place as scheduled.,neutral,en,google_reviews,shopping
+110,I feel really happy about how things turned out today.,happy,en,reddit,technology
+2155,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,entertainment
+196,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,technology
+888,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,entertainment
+3731,I keep trying and failing.,frustration,en,reddit,health
+3778,Nothing seems to be working.,frustration,en,reddit,education
+3821,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,shopping
+322,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,shopping
+725,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,health
+2221,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,shopping
+3045,The event took place as scheduled.,neutral,en,reddit,technology
+3493,यह समझना बहुत मुश्किल है।,confusion,hi,reddit,shopping
+1459,I did not expect this at all.,surprise,en,amazon,education
+1785,This is really unpleasant to see.,disgust,en,reddit,entertainment
+128,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,health
+3563,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,health
+1751,I feel sick thinking about this.,disgust,en,reddit,health
+576,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,education
+902,I am scared about what might happen next.,fear,en,google_reviews,education
+2463,There is a lot of excitement inside me.,anticipation,en,amazon,entertainment
+1786,That behavior was disgusting.,disgust,en,reddit,education
+1201,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,entertainment
+448,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,entertainment
+1882,This means a lot to me.,love,en,reddit,education
+297,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,shopping
+2088,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,entertainment
+261,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,news,health
+35,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,news,education
+1560,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,shopping
+2620,I am really looking forward to what comes next.,anticipation,en,amazon,technology
+1241,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,education
+3748,Nothing seems to be working.,frustration,en,twitter,shopping
+2328,This makes me feel secure.,trust,en,twitter,education
+1814,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,shopping
+2300,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,education
+616,This is completely unacceptable.,angry,en,google_reviews,entertainment
+3384,This is hard to understand.,confusion,en,google_reviews,shopping
+2473,I can't wait for this to happen.,anticipation,en,news,education
+3300,This is a regular update.,neutral,en,amazon,technology
+3817,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,education
+2031,My heart feels full right now.,love,en,news,entertainment
+3248,यह एक सामान्य अपडेट है।,neutral,hi,reddit,shopping
+1130,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,technology
+693,This is completely unacceptable.,angry,en,twitter,education
+1638,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,education
+904,This situation makes me feel unsafe.,fear,en,news,technology
+2813,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,google_reviews,education
+3694,I keep trying and failing.,frustration,en,reddit,education
+463,Nothing seems to be going right.,sad,en,reddit,entertainment
+952,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,reddit,education
+1104,I keep worrying about the future.,fear,en,amazon,health
+2257,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,education
+1461,That was a big surprise for me.,surprise,en,amazon,health
+3205,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,technology
+278,Everything feels bright and positive right now.,happy,en,amazon,shopping
+1673,That behavior was disgusting.,disgust,en,twitter,technology
+477,I feel really low and tired today.,sad,en,reddit,shopping
+3126,The event took place as scheduled.,neutral,en,reddit,education
+1465,I did not expect this at all.,surprise,en,reddit,technology
+645,I can't believe this happened again.,angry,en,news,shopping
+2869,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,entertainment
+1386,"Wow, this is unexpected.",surprise,en,amazon,entertainment
+2739,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,health
+344,कुछ भी सही नहीं लग रहा है।,sad,hi,google_reviews,entertainment
+1376,That was a big surprise for me.,surprise,en,google_reviews,health
+751,This is completely unacceptable.,angry,en,amazon,entertainment
+1545,I feel sick thinking about this.,disgust,en,news,shopping
+2847,Everything feels perfect right now.,joy,en,twitter,education
+2839,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,technology
+1433,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,technology
+1689,This is really unpleasant to see.,disgust,en,twitter,education
+2384,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,technology
+38,I feel really happy about how things turned out today.,happy,en,news,entertainment
+762,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,entertainment
+1634,यह व्यवहार बहुत ही घृणित था।,disgust,hi,reddit,education
+2274,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,entertainment
+919,I am scared about what might happen next.,fear,en,amazon,education
+3590,I am not sure what this means.,confusion,en,twitter,entertainment
+2568,There is a lot of excitement inside me.,anticipation,en,twitter,entertainment
+2382,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,shopping
+392,It's been a hard day for me.,sad,en,news,technology
+1222,That was a big surprise for me.,surprise,en,amazon,health
+1992,My heart feels full right now.,love,en,google_reviews,technology
+2920,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,technology
+1839,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,entertainment
+2870,This moment brings me pure joy.,joy,en,reddit,education
+78,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,shopping
+512,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,education
+2366,मुझे इस पर पूरा विश्वास है।,trust,hi,news,technology
+1175,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,google_reviews,entertainment
+2363,मुझे आपकी बात पर भरोसा है।,trust,hi,news,health
+84,Everything feels bright and positive right now.,happy,en,amazon,entertainment
+2775,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,google_reviews,shopping
+870,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,education
+3049,The event took place as scheduled.,neutral,en,amazon,technology
+2794,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,entertainment
+2731,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,reddit,shopping
+515,कुछ भी सही नहीं लग रहा है।,sad,hi,reddit,education
+1163,I am scared about what might happen next.,fear,en,reddit,shopping
+2402,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,technology
+3124,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,technology
+3775,I keep trying and failing.,frustration,en,twitter,health
+2202,This makes me feel secure.,trust,en,reddit,health
+2957,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,amazon,education
+921,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,health
+634,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,education
+2897,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,entertainment
+89,Everything feels bright and positive right now.,happy,en,twitter,education
+2419,I can't wait for this to happen.,anticipation,en,amazon,shopping
+2930,This moment brings me pure joy.,joy,en,twitter,shopping
+889,I am very angry about what happened.,angry,en,news,education
+3224,Everything is proceeding as planned.,neutral,en,google_reviews,health
+1280,That was a big surprise for me.,surprise,en,twitter,technology
+3275,यह एक सामान्य अपडेट है।,neutral,hi,twitter,health
+1355,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,education
+85,I feel really happy about how things turned out today.,happy,en,reddit,technology
+3535,I feel lost about this.,confusion,en,google_reviews,technology
+2005,This means a lot to me.,love,en,reddit,technology
+2433,I can't wait for this to happen.,anticipation,en,amazon,health
+548,It's been a hard day for me.,sad,en,amazon,entertainment
+1696,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,amazon,health
+734,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,entertainment
+3525,I feel lost about this.,confusion,en,amazon,health
+3575,I feel lost about this.,confusion,en,google_reviews,health
+3670,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,entertainment
+757,I can't believe this happened again.,angry,en,amazon,health
+69,This made my day so much better.,happy,en,news,education
+491,Nothing seems to be going right.,sad,en,reddit,education
+2681,There is a lot of excitement inside me.,anticipation,en,reddit,technology
+708,I am very angry about what happened.,angry,en,google_reviews,education
+3804,Nothing seems to be working.,frustration,en,reddit,health
+3837,This is getting very annoying.,frustration,en,news,shopping
+2700,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,entertainment
+911,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,shopping
+2857,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,google_reviews,entertainment
+580,It's been a hard day for me.,sad,en,twitter,technology
+230,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,entertainment
+1718,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,technology
+32,This made my day so much better.,happy,en,google_reviews,education
+1303,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,technology
+295,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,twitter,entertainment
+2967,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,education
+3264,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,education
+384,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,health
+834,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,education
+1688,That behavior was disgusting.,disgust,en,twitter,education
+2924,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,twitter,education
+713,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+492,It's been a hard day for me.,sad,en,news,education
+2990,Everything feels perfect right now.,joy,en,amazon,health
+726,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,education
+2049,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,entertainment
+1190,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,technology
+784,I can't believe this happened again.,angry,en,amazon,shopping
+2589,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,entertainment
+1752,This is really unpleasant to see.,disgust,en,news,health
+1848,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,technology
+2960,This moment brings me pure joy.,joy,en,news,shopping
+2063,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,education
+3314,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,technology
+2816,Everything feels perfect right now.,joy,en,google_reviews,entertainment
+4,This made my day so much better.,happy,en,reddit,education
+209,This made my day so much better.,happy,en,google_reviews,technology
+3735,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,health
+1458,"Wow, this is unexpected.",surprise,en,news,entertainment
+2707,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,shopping
+3751,This is getting very annoying.,frustration,en,reddit,health
+2260,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,health
+1158,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,google_reviews,health
+117,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,reddit,education
+2072,This means a lot to me.,love,en,news,health
+2730,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,education
+3349,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,entertainment
+1202,"Wow, this is unexpected.",surprise,en,amazon,technology
+3712,This is getting very annoying.,frustration,en,news,shopping
+817,I am very angry about what happened.,angry,en,google_reviews,entertainment
+3129,Everything is proceeding as planned.,neutral,en,reddit,health
+2505,I am really looking forward to what comes next.,anticipation,en,news,education
+1637,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,technology
+2783,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,education
+3026,The event took place as scheduled.,neutral,en,twitter,health
+2013,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,entertainment
+3543,I am not sure what this means.,confusion,en,twitter,entertainment
+487,It's been a hard day for me.,sad,en,news,technology
+546,I feel really low and tired today.,sad,en,twitter,health
+1599,यह देखना बहुत ही घिनौना है।,disgust,hi,reddit,shopping
+3102,यह एक सामान्य अपडेट है।,neutral,hi,twitter,education
+651,I can't believe this happened again.,angry,en,reddit,technology
+2892,Everything feels perfect right now.,joy,en,google_reviews,health
+2564,I can't wait for this to happen.,anticipation,en,news,health
+2522,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,technology
+3847,I keep trying and failing.,frustration,en,reddit,health
+2046,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,shopping
+589,I feel really low and tired today.,sad,en,google_reviews,technology
+3226,Everything is proceeding as planned.,neutral,en,twitter,health
+48,I feel really happy about how things turned out today.,happy,en,google_reviews,entertainment
+1517,That behavior was disgusting.,disgust,en,amazon,shopping
+1593,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,shopping
+3419,This is hard to understand.,confusion,en,reddit,education
+2238,I believe in what you are saying.,trust,en,reddit,shopping
+3638,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,technology
+1082,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,education
+3073,The event took place as scheduled.,neutral,en,amazon,entertainment
+2894,I am enjoying every second of this.,joy,en,google_reviews,shopping
+1628,This is really unpleasant to see.,disgust,en,news,education
+3003,Everything is proceeding as planned.,neutral,en,amazon,shopping
+3689,This is getting very annoying.,frustration,en,news,education
+880,This is completely unacceptable.,angry,en,google_reviews,education
+2689,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,shopping
+2887,This moment brings me pure joy.,joy,en,twitter,technology
+2587,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,technology
+1017,I keep worrying about the future.,fear,en,twitter,health
+3078,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,health
+3175,The event took place as scheduled.,neutral,en,reddit,education
+3647,This is getting very annoying.,frustration,en,google_reviews,education
+533,It's been a hard day for me.,sad,en,google_reviews,health
+1060,I keep worrying about the future.,fear,en,twitter,entertainment
+3008,यह एक सामान्य अपडेट है।,neutral,hi,reddit,education
+1164,I am scared about what might happen next.,fear,en,twitter,health
+1640,I feel sick thinking about this.,disgust,en,reddit,education
+3229,This is a regular update.,neutral,en,google_reviews,health
+811,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,twitter,technology
+3202,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,reddit,education
+655,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,entertainment
+2279,I believe in what you are saying.,trust,en,google_reviews,technology
+2022,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,shopping
+686,I am very angry about what happened.,angry,en,reddit,health
+3164,The event took place as scheduled.,neutral,en,reddit,technology
+3161,Everything is proceeding as planned.,neutral,en,news,technology
+3174,The event took place as scheduled.,neutral,en,amazon,technology
+3341,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,shopping
+1516,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,entertainment
+1278,I did not expect this at all.,surprise,en,google_reviews,entertainment
+1481,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,health
+3849,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,technology
+2874,This moment brings me pure joy.,joy,en,google_reviews,technology
+1502,यह देखना बहुत ही घिनौना है।,disgust,hi,amazon,shopping
+3706,This is getting very annoying.,frustration,en,twitter,education
+1652,I feel sick thinking about this.,disgust,en,amazon,health
+3334,I am not sure what this means.,confusion,en,news,health
+412,It's been a hard day for me.,sad,en,news,entertainment
+3586,यह समझना बहुत मुश्किल है।,confusion,hi,news,entertainment
+2101,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,education
+3340,I feel lost about this.,confusion,en,amazon,health
+1282,I did not expect this at all.,surprise,en,reddit,shopping
+3667,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,shopping
+2543,I can't wait for this to happen.,anticipation,en,reddit,entertainment
+2318,This makes me feel secure.,trust,en,google_reviews,education
+3037,The event took place as scheduled.,neutral,en,amazon,technology
+3358,I am not sure what this means.,confusion,en,news,entertainment
+1375,I did not expect this at all.,surprise,en,news,shopping
+2629,I can't wait for this to happen.,anticipation,en,google_reviews,health
+1907,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,twitter,entertainment
+544,It's been a hard day for me.,sad,en,google_reviews,health
+1166,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,technology
+1941,I truly care about you.,love,en,google_reviews,entertainment
+3379,I feel lost about this.,confusion,en,amazon,shopping
+915,I am scared about what might happen next.,fear,en,amazon,education
+1039,I keep worrying about the future.,fear,en,reddit,entertainment
+3451,I am not sure what this means.,confusion,en,twitter,shopping
+2054,This means a lot to me.,love,en,twitter,education
+1146,I am scared about what might happen next.,fear,en,reddit,technology
+2880,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,shopping
+2248,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,education
+2605,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,amazon,technology
+1456,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,amazon,entertainment
+1450,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,shopping
+3263,The event took place as scheduled.,neutral,en,amazon,entertainment
+984,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,news,entertainment
+2506,I am really looking forward to what comes next.,anticipation,en,google_reviews,technology
+36,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,education
+3474,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,reddit,entertainment
+1187,This situation makes me feel unsafe.,fear,en,twitter,shopping
+471,I feel really low and tired today.,sad,en,reddit,entertainment
+3316,I feel lost about this.,confusion,en,news,entertainment
+3057,यह एक सामान्य अपडेट है।,neutral,hi,news,health
+523,It's been a hard day for me.,sad,en,google_reviews,shopping
+2323,मुझे इस पर पूरा विश्वास है।,trust,hi,news,shopping
+3761,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,reddit,technology
+3325,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,education
+1284,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,health
+2976,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,shopping
+2649,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,health
+3013,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,technology
+3356,यह समझना बहुत मुश्किल है।,confusion,hi,reddit,entertainment
+1063,I am scared about what might happen next.,fear,en,reddit,entertainment
+362,It's been a hard day for me.,sad,en,news,entertainment
+716,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,news,technology
+737,I am very angry about what happened.,angry,en,reddit,health
+3439,I feel lost about this.,confusion,en,news,education
+3372,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,news,technology
+3321,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,entertainment
+1544,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,health
+2184,मुझे आपकी बात पर भरोसा है।,trust,hi,twitter,technology
+2763,This moment brings me pure joy.,joy,en,news,shopping
+3789,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,technology
+2240,I believe in what you are saying.,trust,en,news,education
+3625,I keep trying and failing.,frustration,en,reddit,shopping
+3220,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,education
+1162,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,entertainment
+1352,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,shopping
+872,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,amazon,health
+3708,This is getting very annoying.,frustration,en,twitter,health
+1220,I did not expect this at all.,surprise,en,reddit,technology
+2771,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,google_reviews,entertainment
+664,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,google_reviews,shopping
+2485,I am really looking forward to what comes next.,anticipation,en,news,health
+1343,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,news,health
+2114,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,education
+1903,यह मेरे लिए बहुत मायने रखता है।,love,hi,google_reviews,health
+1873,I truly care about you.,love,en,amazon,education
+3861,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,technology
+3546,यह समझना बहुत मुश्किल है।,confusion,hi,google_reviews,entertainment
+1111,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,technology
+681,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,amazon,shopping
+190,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,google_reviews,shopping
+3850,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,google_reviews,shopping
+2561,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,entertainment
+474,I feel really low and tired today.,sad,en,news,technology
+1334,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,shopping
+3025,Everything is proceeding as planned.,neutral,en,amazon,shopping
+1601,That behavior was disgusting.,disgust,en,twitter,education
+1729,That behavior was disgusting.,disgust,en,reddit,entertainment
+3822,Nothing seems to be working.,frustration,en,amazon,health
+1820,यह मेरे लिए बहुत मायने रखता है।,love,hi,amazon,entertainment
+3624,This is getting very annoying.,frustration,en,reddit,health
+786,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,entertainment
+1573,I feel sick thinking about this.,disgust,en,amazon,education
+2525,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,shopping
+1103,This situation makes me feel unsafe.,fear,en,google_reviews,education
+436,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,entertainment
+2179,मुझे आपकी बात पर भरोसा है।,trust,hi,reddit,education
+3406,This is hard to understand.,confusion,en,google_reviews,shopping
+2815,I am enjoying every second of this.,joy,en,google_reviews,education
+483,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,education
+3246,This is a regular update.,neutral,en,reddit,entertainment
+1037,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,shopping
+1208,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,google_reviews,health
+2261,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,health
+2483,I am really looking forward to what comes next.,anticipation,en,twitter,health
+198,I feel really happy about how things turned out today.,happy,en,reddit,education
+76,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,news,technology
+3238,Everything is proceeding as planned.,neutral,en,amazon,shopping
+3672,Nothing seems to be working.,frustration,en,amazon,technology
+1255,"Wow, this is unexpected.",surprise,en,news,health
+3051,The event took place as scheduled.,neutral,en,news,technology
+1091,This situation makes me feel unsafe.,fear,en,google_reviews,entertainment
+2580,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,twitter,shopping
+2778,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,shopping
+3046,This is a regular update.,neutral,en,twitter,technology
+340,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,education
+884,This is completely unacceptable.,angry,en,reddit,education
+3115,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,education
+2340,I believe in what you are saying.,trust,en,twitter,health
+853,I am very angry about what happened.,angry,en,amazon,entertainment
+3188,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,amazon,technology
+3437,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,shopping
+1931,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,shopping
+3444,यह समझना बहुत मुश्किल है।,confusion,hi,google_reviews,entertainment
+354,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,amazon,education
+1030,I am scared about what might happen next.,fear,en,amazon,technology
+2712,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,twitter,education
+2090,My heart feels full right now.,love,en,reddit,shopping
+2369,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,shopping
+2024,I truly care about you.,love,en,news,technology
+2556,I can't wait for this to happen.,anticipation,en,amazon,education
+864,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,reddit,shopping
+2116,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,education
+3866,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,twitter,health
+674,I am very angry about what happened.,angry,en,twitter,health
+1867,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,shopping
+593,I feel really low and tired today.,sad,en,reddit,entertainment
+1766,This is really unpleasant to see.,disgust,en,twitter,technology
+2579,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,technology
+239,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,amazon,education
+981,I am scared about what might happen next.,fear,en,reddit,entertainment
+3740,Nothing seems to be working.,frustration,en,twitter,education
+3066,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,google_reviews,entertainment
+2550,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,news,shopping
+3279,The event took place as scheduled.,neutral,en,google_reviews,entertainment
+3097,Everything is proceeding as planned.,neutral,en,news,education
+2710,Everything feels perfect right now.,joy,en,news,technology
+909,This situation makes me feel unsafe.,fear,en,amazon,education
+2137,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,news,shopping
+3458,This is hard to understand.,confusion,en,google_reviews,shopping
+3524,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,education
+2040,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,education
+2165,मुझे इस पर पूरा विश्वास है।,trust,hi,twitter,health
+3368,I am not sure what this means.,confusion,en,twitter,shopping
+2599,मेरे अंदर बहुत उत्साह है।,anticipation,hi,amazon,shopping
+1253,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,reddit,health
+431,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+1739,यह देखना बहुत ही घिनौना है।,disgust,hi,google_reviews,shopping
+2442,I am really looking forward to what comes next.,anticipation,en,news,technology
+1659,यह व्यवहार बहुत ही घृणित था।,disgust,hi,google_reviews,shopping
+1001,This situation makes me feel unsafe.,fear,en,reddit,health
+2050,यह मेरे लिए बहुत मायने रखता है।,love,hi,amazon,shopping
+1578,यह देखना बहुत ही घिनौना है।,disgust,hi,twitter,health
+11,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,technology
+1449,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,entertainment
+3113,यह एक सामान्य अपडेट है।,neutral,hi,twitter,education
+1966,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,education
+1446,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,health
+400,कुछ भी सही नहीं लग रहा है।,sad,hi,news,entertainment
+617,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,shopping
+3532,I feel lost about this.,confusion,en,twitter,shopping
+3149,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,reddit,shopping
+3417,I am not sure what this means.,confusion,en,news,entertainment
+2073,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,google_reviews,education
+749,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,google_reviews,technology
+1720,I feel sick thinking about this.,disgust,en,twitter,technology
+1715,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,news,education
+608,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,technology
+3284,Everything is proceeding as planned.,neutral,en,twitter,health
+2671,I am really looking forward to what comes next.,anticipation,en,amazon,health
+1477,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,health
+1629,This is really unpleasant to see.,disgust,en,google_reviews,education
+2456,There is a lot of excitement inside me.,anticipation,en,twitter,technology
+2219,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,twitter,health
+2398,मुझे आपकी बात पर भरोसा है।,trust,hi,news,entertainment
+305,Nothing seems to be going right.,sad,en,twitter,education
+1117,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,amazon,health
+258,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,reddit,education
+62,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,amazon,health
+2341,I believe in what you are saying.,trust,en,amazon,shopping
+1173,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,reddit,entertainment
+2277,मुझे इस पर पूरा विश्वास है।,trust,hi,news,health
+2718,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,google_reviews,shopping
+1281,"Wow, this is unexpected.",surprise,en,twitter,health
+3720,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,health
+2404,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,google_reviews,shopping
+3233,The event took place as scheduled.,neutral,en,amazon,entertainment
+3214,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,entertainment
+3867,This is getting very annoying.,frustration,en,google_reviews,education
+1123,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,shopping
+1272,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,education
+1597,यह देखना बहुत ही घिनौना है।,disgust,hi,news,shopping
+139,I feel really happy about how things turned out today.,happy,en,twitter,entertainment
+2317,मुझे आपकी बात पर भरोसा है।,trust,hi,reddit,technology
+267,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,health
+3623,This is getting very annoying.,frustration,en,google_reviews,technology
+2895,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,education
+3402,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,shopping
+505,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,news,education
+2375,I believe in what you are saying.,trust,en,google_reviews,shopping
+3050,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,amazon,shopping
+2488,There is a lot of excitement inside me.,anticipation,en,twitter,entertainment
+1656,That behavior was disgusting.,disgust,en,reddit,technology
+396,कुछ भी सही नहीं लग रहा है।,sad,hi,news,health
+3719,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,news,shopping
+2498,I can't wait for this to happen.,anticipation,en,amazon,education
+2670,There is a lot of excitement inside me.,anticipation,en,reddit,entertainment
+3777,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,news,technology
+2933,Everything feels perfect right now.,joy,en,news,health
+3428,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,amazon,entertainment
+2007,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,amazon,entertainment
+542,I feel really low and tired today.,sad,en,reddit,technology
+788,I can't believe this happened again.,angry,en,twitter,health
+359,I feel really low and tired today.,sad,en,reddit,technology
+753,This is completely unacceptable.,angry,en,google_reviews,health
+95,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,technology
+2338,I feel confident about this.,trust,en,amazon,shopping
+2926,This moment brings me pure joy.,joy,en,twitter,shopping
+3207,यह एक सामान्य अपडेट है।,neutral,hi,amazon,education
+3293,यह एक सामान्य अपडेट है।,neutral,hi,twitter,education
+1059,I keep worrying about the future.,fear,en,news,technology
+2446,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,shopping
+1341,That was a big surprise for me.,surprise,en,google_reviews,technology
+2613,I can't wait for this to happen.,anticipation,en,google_reviews,health
+1306,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,health
+585,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+2721,Everything feels perfect right now.,joy,en,google_reviews,entertainment
+1064,I am scared about what might happen next.,fear,en,news,technology
+1810,This means a lot to me.,love,en,reddit,health
+92,Everything feels bright and positive right now.,happy,en,news,entertainment
+2324,I believe in what you are saying.,trust,en,amazon,entertainment
+1788,I feel sick thinking about this.,disgust,en,google_reviews,entertainment
+2511,I can't wait for this to happen.,anticipation,en,twitter,technology
+603,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,health
+765,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,google_reviews,shopping
+26,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,health
+1883,मुझे आपकी सच में बहुत परवाह है।,love,hi,twitter,entertainment
+1590,That behavior was disgusting.,disgust,en,reddit,technology
+2135,This makes me feel secure.,trust,en,amazon,entertainment
+1865,I truly care about you.,love,en,news,entertainment
+1872,My heart feels full right now.,love,en,news,education
+3390,I feel lost about this.,confusion,en,amazon,technology
+3289,यह एक सामान्य अपडेट है।,neutral,hi,news,technology
+1367,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,twitter,entertainment
+3522,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,shopping
+393,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,google_reviews,health
+2307,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,technology
+1403,I did not expect this at all.,surprise,en,google_reviews,technology
+3380,This is hard to understand.,confusion,en,reddit,shopping
+1692,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,education
+2331,मुझे आपकी बात पर भरोसा है।,trust,hi,google_reviews,health
+2989,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,twitter,education
+1886,I truly care about you.,love,en,news,entertainment
+2797,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,google_reviews,entertainment
+3499,I am not sure what this means.,confusion,en,google_reviews,education
+2479,I am really looking forward to what comes next.,anticipation,en,reddit,health
+210,This made my day so much better.,happy,en,amazon,technology
+802,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,twitter,education
+1705,That behavior was disgusting.,disgust,en,news,shopping
+1361,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,shopping
+285,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,news,education
+2122,I believe in what you are saying.,trust,en,twitter,shopping
+2352,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,google_reviews,shopping
+1165,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,twitter,entertainment
+3409,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,google_reviews,shopping
+2742,This moment brings me pure joy.,joy,en,twitter,entertainment
+3127,Everything is proceeding as planned.,neutral,en,twitter,entertainment
+3633,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,news,education
+3479,I am not sure what this means.,confusion,en,reddit,technology
+2893,I am enjoying every second of this.,joy,en,reddit,technology
+276,This made my day so much better.,happy,en,reddit,entertainment
+707,I can't believe this happened again.,angry,en,news,technology
+2843,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,entertainment
+3859,Nothing seems to be working.,frustration,en,amazon,shopping
+3403,I feel lost about this.,confusion,en,twitter,education
+871,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,education
+2387,I believe in what you are saying.,trust,en,news,shopping
+2417,There is a lot of excitement inside me.,anticipation,en,news,entertainment
+2650,I can't wait for this to happen.,anticipation,en,twitter,entertainment
+135,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,twitter,entertainment
+3750,I keep trying and failing.,frustration,en,google_reviews,education
+3510,यह समझना बहुत मुश्किल है।,confusion,hi,news,shopping
+316,कुछ भी सही नहीं लग रहा है।,sad,hi,twitter,health
+3642,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,reddit,health
+1393,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,twitter,education
+3824,This is getting very annoying.,frustration,en,news,entertainment
+2254,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,entertainment
+2060,My heart feels full right now.,love,en,twitter,technology
+2886,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,amazon,technology
+3407,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,education
+1495,I did not expect this at all.,surprise,en,twitter,health
+3648,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,twitter,education
+2684,I can't wait for this to happen.,anticipation,en,twitter,entertainment
+3398,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,education
+3225,Everything is proceeding as planned.,neutral,en,news,technology
+2822,I am enjoying every second of this.,joy,en,google_reviews,education
+166,Everything feels bright and positive right now.,happy,en,amazon,shopping
+2959,I am enjoying every second of this.,joy,en,google_reviews,technology
+1530,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,health
+1270,That was a big surprise for me.,surprise,en,news,education
+1891,My heart feels full right now.,love,en,google_reviews,entertainment
+334,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,health
+1998,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,news,health
+82,This made my day so much better.,happy,en,amazon,technology
+3609,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,health
+773,I am very angry about what happened.,angry,en,google_reviews,technology
+2443,I am really looking forward to what comes next.,anticipation,en,news,education
+306,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,reddit,shopping
+214,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,twitter,technology
+1863,मुझे आपकी सच में बहुत परवाह है।,love,hi,amazon,health
+3787,Nothing seems to be working.,frustration,en,reddit,shopping
+389,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,education
+3172,This is a regular update.,neutral,en,google_reviews,health
+187,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,entertainment
+955,I keep worrying about the future.,fear,en,google_reviews,health
+3659,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,entertainment
+1028,I am scared about what might happen next.,fear,en,google_reviews,education
+2010,My heart feels full right now.,love,en,twitter,health
+2987,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,shopping
+310,It's been a hard day for me.,sad,en,google_reviews,technology
+1915,मुझे आपकी सच में बहुत परवाह है।,love,hi,reddit,entertainment
+635,यह बिल्कुल भी स्वीकार्य नहीं है।,angry,hi,google_reviews,shopping
+2591,I can't wait for this to happen.,anticipation,en,amazon,technology
+3091,Everything is proceeding as planned.,neutral,en,reddit,shopping
+478,It's been a hard day for me.,sad,en,reddit,education
+2057,I truly care about you.,love,en,news,education
+699,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+3347,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,reddit,technology
+1221,That was a big surprise for me.,surprise,en,twitter,health
+2118,यह मुझे सुरक्षित महसूस कराता है।,trust,hi,reddit,health
+2949,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,reddit,entertainment
+3135,Everything is proceeding as planned.,neutral,en,google_reviews,education
+2528,I am really looking forward to what comes next.,anticipation,en,reddit,education
+1291,That was a big surprise for me.,surprise,en,amazon,shopping
+1791,That behavior was disgusting.,disgust,en,reddit,shopping
+517,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,amazon,shopping
+3383,I am not sure what this means.,confusion,en,reddit,health
+3566,यह समझना बहुत मुश्किल है।,confusion,hi,twitter,entertainment
+1744,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,shopping
+2480,I can't wait for this to happen.,anticipation,en,google_reviews,shopping
+3663,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,amazon,education
+60,आज मैं बहुत खुश महसूस कर रहा हूँ।,happy,hi,google_reviews,shopping
+1624,यह सोचकर ही मुझे अजीब लग रहा है।,disgust,hi,twitter,education
+215,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,google_reviews,shopping
+454,I feel really low and tired today.,sad,en,news,entertainment
+949,This situation makes me feel unsafe.,fear,en,google_reviews,technology
+956,मैं भविष्य को लेकर लगातार चिंतित हूँ।,fear,hi,google_reviews,shopping
+416,It's been a hard day for me.,sad,en,google_reviews,technology
+2133,This makes me feel secure.,trust,en,reddit,shopping
+292,Everything feels bright and positive right now.,happy,en,twitter,entertainment
+1855,This means a lot to me.,love,en,amazon,education
+496,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,technology
+3860,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,technology
+794,This is completely unacceptable.,angry,en,amazon,entertainment
+1425,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,amazon,entertainment
+3754,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,health
+265,Everything feels bright and positive right now.,happy,en,reddit,technology
+2403,मैं आगे क्या होगा इसका इंतजार कर रहा हूँ।,anticipation,hi,reddit,entertainment
+1420,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,entertainment
+1324,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,twitter,entertainment
+2889,Everything feels perfect right now.,joy,en,google_reviews,technology
+3577,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,twitter,entertainment
+2551,I can't wait for this to happen.,anticipation,en,reddit,entertainment
+3278,The event took place as scheduled.,neutral,en,twitter,technology
+1526,This is really unpleasant to see.,disgust,en,reddit,shopping
+3746,यह बहुत परेशान करने वाला हो रहा है।,frustration,hi,amazon,entertainment
+2409,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,reddit,education
+3497,मैं इसे लेकर बहुत उलझन में हूँ।,confusion,hi,news,education
+2709,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,news,health
+2518,There is a lot of excitement inside me.,anticipation,en,twitter,education
+2820,मैं इस पल का पूरा आनंद ले रहा हूँ।,joy,hi,reddit,education
+839,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,reddit,technology
+3303,This is hard to understand.,confusion,en,google_reviews,education
+3031,Everything is proceeding as planned.,neutral,en,news,health
+2828,Everything feels perfect right now.,joy,en,news,entertainment
+898,I am very angry about what happened.,angry,en,amazon,entertainment
+1321,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,shopping
+3803,This is getting very annoying.,frustration,en,news,entertainment
+1328,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,google_reviews,entertainment
+2377,मुझे इस पर पूरा विश्वास है।,trust,hi,reddit,entertainment
+464,It's been a hard day for me.,sad,en,twitter,education
+2172,मुझे इस पर पूरा विश्वास है।,trust,hi,google_reviews,shopping
+1427,मुझे इसकी बिल्कुल उम्मीद नहीं थी।,surprise,hi,news,education
+3253,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,news,technology
+1693,यह व्यवहार बहुत ही घृणित था।,disgust,hi,news,technology
+1777,That behavior was disgusting.,disgust,en,amazon,health
+3354,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,shopping
+3701,I keep trying and failing.,frustration,en,reddit,technology
+2740,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,twitter,technology
+1080,I keep worrying about the future.,fear,en,reddit,health
+138,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,amazon,health
+3410,This is hard to understand.,confusion,en,twitter,shopping
+1589,This is really unpleasant to see.,disgust,en,news,health
+3463,I feel lost about this.,confusion,en,twitter,shopping
+1236,I did not expect this at all.,surprise,en,reddit,entertainment
+1213,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,twitter,shopping
+1866,मेरा दिल अभी बहुत खुश महसूस कर रहा है।,love,hi,reddit,technology
+2595,There is a lot of excitement inside me.,anticipation,en,news,health
+3891,कुछ भी सही से काम नहीं कर रहा है।,frustration,hi,google_reviews,health
+3765,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,reddit,education
+2091,मुझे आपकी सच में बहुत परवाह है।,love,hi,google_reviews,technology
+2099,My heart feels full right now.,love,en,news,education
+2493,I can't wait for this to happen.,anticipation,en,news,education
+1977,यह मेरे लिए बहुत मायने रखता है।,love,hi,reddit,shopping
+2837,Everything feels perfect right now.,joy,en,twitter,shopping
+1098,मुझे आगे क्या होगा इसका डर लग रहा है।,fear,hi,amazon,education
+3548,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,twitter,health
+249,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,amazon,education
+3539,I am not sure what this means.,confusion,en,news,education
+3085,यह एक सामान्य अपडेट है।,neutral,hi,news,technology
+352,आज मैं बहुत उदास महसूस कर रहा हूँ।,sad,hi,twitter,health
+1945,I truly care about you.,love,en,google_reviews,entertainment
+3348,यह समझना बहुत मुश्किल है।,confusion,hi,google_reviews,entertainment
+835,This is completely unacceptable.,angry,en,amazon,entertainment
+173,सब कुछ आज बहुत सकारात्मक लग रहा है।,happy,hi,reddit,education
+2205,I feel confident about this.,trust,en,google_reviews,entertainment
+579,आज का दिन मेरे लिए बहुत मुश्किल रहा।,sad,hi,twitter,technology
+3331,मुझे समझ नहीं आ रहा कि इसका क्या मतलब है।,confusion,hi,reddit,education
+2688,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,google_reviews,health
+1421,"Wow, this is unexpected.",surprise,en,twitter,education
+3540,यह समझना बहुत मुश्किल है।,confusion,hi,reddit,health
+1287,I did not expect this at all.,surprise,en,twitter,education
+137,यह देखकर मेरा दिन अच्छा बन गया।,happy,hi,amazon,technology
+560,कुछ भी सही नहीं लग रहा है।,sad,hi,amazon,education
+1441,"वाह, यह बिल्कुल अप्रत्याशित है।",surprise,hi,reddit,technology
+2773,यह पल मुझे बहुत खुशी दे रहा है।,joy,hi,news,technology
+3162,सब कुछ योजना के अनुसार चल रहा है।,neutral,hi,twitter,technology
+3737,Nothing seems to be working.,frustration,en,amazon,shopping
+573,I feel really low and tired today.,sad,en,amazon,shopping
+1378,यह मेरे लिए बहुत बड़ा आश्चर्य था।,surprise,hi,amazon,entertainment
+3747,This is getting very annoying.,frustration,en,news,education
+806,This is completely unacceptable.,angry,en,reddit,entertainment
+3100,This is a regular update.,neutral,en,reddit,education
+3475,I am not sure what this means.,confusion,en,google_reviews,entertainment
+709,जो हुआ उससे मैं बहुत गुस्से में हूँ।,angry,hi,news,shopping
+2983,सब कुछ अभी परफेक्ट लग रहा है।,joy,hi,google_reviews,technology
+2765,I am enjoying every second of this.,joy,en,google_reviews,entertainment
+3616,I keep trying and failing.,frustration,en,amazon,technology
+3774,मैं बार-बार कोशिश कर रहा हूँ लेकिन असफल हो रहा हूँ।,frustration,hi,twitter,shopping
+711,मुझे विश्वास नहीं हो रहा कि यह फिर से हुआ।,angry,hi,twitter,shopping
+1074,यह स्थिति मुझे असुरक्षित महसूस कराती है।,fear,hi,twitter,health
+3011,कार्यक्रम योजना के अनुसार हुआ।,neutral,hi,twitter,education
+1605,That behavior was disgusting.,disgust,en,news,shopping
+1660,That behavior was disgusting.,disgust,en,reddit,health
+2791,This moment brings me pure joy.,joy,en,news,entertainment
+1106,I keep worrying about the future.,fear,en,twitter,shopping
+970,I keep worrying about the future.,fear,en,news,technology
+2566,मुझे इसका बहुत बेसब्री से इंतजार है।,anticipation,hi,twitter,shopping
+1940,My heart feels full right now.,love,en,reddit,technology
+3399,I am not sure what this means.,confusion,en,google_reviews,health
+2271,मुझे इस पर पूरा विश्वास है।,trust,hi,amazon,entertainment
+159,Everything feels bright and positive right now.,happy,en,reddit,entertainment
+2201,I feel confident about this.,trust,en,reddit,entertainment

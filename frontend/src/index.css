@@ -40,3 +40,49 @@
   background-color: #4b5563;
   /* gray-600 */
 }
+
+/* Light Theme Overrides (Tailwind v4 Variable Inversion) */
+@layer base {
+  .light {
+    --color-background: #ffffff;
+    --color-surface: #f3f4f6;
+    
+    /* Invert Grays */
+    --color-gray-900: #f9fafb;
+    --color-gray-800: #f3f4f6;
+    --color-gray-700: #e5e7eb;
+    --color-gray-600: #d1d5db;
+    --color-gray-500: #9ca3af;
+    --color-gray-400: #6b7280;
+    --color-gray-300: #4b5563;
+    --color-gray-200: #374151;
+    --color-gray-100: #1f2937;
+    --color-gray-50:  #111827;
+
+    /* Invert Black/White */
+    --color-white: #111827;
+    --color-black: #ffffff;
+
+    /* Primary Accent adjustments if needed */
+    --color-primary: #4f46e5;
+  }
+}
+
+/* View Transitions Config */
+::view-transition-group(root) {
+  animation-duration: 0.6s;
+  animation-timing-function: cubic-bezier(0.87, 0, 0.13, 1);
+}
+
+::view-transition-new(root),
+::view-transition-old(root) {
+  /* Disable crossfade */
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+/* Ensure the old mode sits behind the new mode clip-path animation */
+.dark::view-transition-old(root) { z-index: 1; }
+.dark::view-transition-new(root) { z-index: 2; }
+.light::view-transition-old(root) { z-index: 1; }
+.light::view-transition-new(root) { z-index: 2; }

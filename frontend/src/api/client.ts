@@ -13,6 +13,15 @@ export interface SentimentResponse {
       sentiment: string;
       confidence: number;
       details?: any;
+      reasoning?: { word: string; weight: number }[];
+      math_breakdown?: {
+            modality: string;
+            original_sentiment: string;
+            confidence: number;
+            weight: number;
+            contribution: number;
+            maps_to: string;
+      }[];
 }
 
 export type TextResponse = SentimentResponse;
@@ -28,10 +37,19 @@ export interface VideoResponse {
                   sentiment: string;
                   confidence: number;
                   details?: string;
+                  reasoning?: { word: string; weight: number }[];
             };
       };
       frames_analyzed: number;
       transcription: string;
+      math_breakdown?: {
+            modality: string;
+            original_sentiment: string;
+            confidence: number;
+            weight: number;
+            contribution: number;
+            maps_to: string;
+      }[];
 }
 
 export const analyzeText = async (text: string): Promise<SentimentResponse> => {

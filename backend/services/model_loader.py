@@ -3,6 +3,7 @@ import torch
 from transformers import AutoConfig, AutoModelForAudioClassification, AutoFeatureExtractor
 from transformers import AutoModelForImageClassification, AutoImageProcessor
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from peft import PeftModel, PeftConfig
 from backend.src.config.settings import AUDIO_MODEL_CONFIG, VISION_MODEL_CONFIG, TEXT_MODEL_CONFIG
 
 logger = logging.getLogger(__name__)
@@ -52,13 +53,28 @@ class ModelLoader:
     def load_text_model(self):
         if self.text_model is None:
             try:
-                logger.info("Loading Text Model...")
-                model_name = TEXT_MODEL_CONFIG["model_name"]
-                self.text_config = AutoConfig.from_pretrained(model_name)
-                self.text_tokenizer = AutoTokenizer.from_pretrained(model_name)
-                self.text_model = AutoModelForSequenceClassification.from_pretrained(model_name)
+                logger.info("Loading Multilingual 13-Emotion Text Model (via LoRA)...")
+                base_model_name = TEXT_MODEL_CONFIG["base_model_name"]
+                lora_path = TEXT_MODEL_CONFIG["lora_path"]
+                
+                # We do not use AutoConfig for the base model during PEFT loading usually,
+                # we just instantiate the model and load the PEFT adapters.
+                self.text_config = TEXT_MODEL_CONFIG # Dummy config backward compatibility
+                
+                self.text_tokenizer = AutoTokenizer.from_pretrained(base_model_name)
+                
+                # 1. Load Base XLM-R
+                base_model = AutoModelForSequenceClassification.from_pretrained(
+                    base_model_name,
+                    num_labels=13
+                )
+                
+                # 2. Inject LoRA Wrappers
+                self.text_model = PeftModel.from_pretrained(base_model, lora_path)
                 self.text_model.to(self.device)
-                logger.info(f"Text model loaded on {self.device}")
+                self.text_model.eval()
+                
+                logger.info(f"LoRA Text model loaded on {self.device}")
             except Exception as e:
                 logger.error(f"Failed to load text model: {e}")
                 raise e
