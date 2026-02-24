@@ -12,6 +12,10 @@ interface EvidencePanelProps {
 }
 
 const SENTIMENT_UNIFICATION: Record<string, string> = {
+      // 6 Core Text Emotions
+      "joy": "Positive", "love": "Positive", "sadness": "Negative", "anger": "Negative", "fear": "Negative", "surprise": "Neutral",
+
+      // Kept for Audio/Vision models compatability
       "Admiration": "Positive", "Amusement": "Positive", "Anger": "Negative", "Annoyance": "Negative",
       "Approval": "Positive", "Caring": "Positive", "Confusion": "Neutral", "Curiosity": "Neutral",
       "Desire": "Positive", "Disappointment": "Negative", "Disapproval": "Negative", "Disgust": "Negative",

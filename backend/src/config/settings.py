@@ -1,12 +1,11 @@
-# Text Model Configuration (Multilingual 13-Emotions via LoRA)
+# Text Model Configuration (Multilingual 6-Emotions via LoRA)
 TEXT_MODEL_CONFIG = {
     # The base model is what the tokenzier needs
     "base_model_name": "xlm-roberta-base",
     # The local path where our fine-tuned LoRA adapters are saved
-    "lora_path": "./models_weights/multilingual_13_emotions_lora",
+    "lora_path": "./models_weights/multilingual_6_emotions_lora",
     "labels": [
-        "angry", "anticipation", "confusion", "disgust", "fear", "frustration", 
-        "happy", "joy", "love", "neutral", "sad", "surprise", "trust"
+        "sadness", "joy", "love", "anger", "fear", "surprise"
     ]
 }
 
@@ -57,21 +56,12 @@ SENTIMENT_UNIFICATION = {
     "Disgust": "Negative",
     "Surprise": "Neutral",
     
-    # Text Model 13 Emotions
+    # Text Model 6 Core Emotions mapping
     "joy": "Positive",
     "love": "Positive",
-    "happy": "Positive",
-    "anticipation": "Positive",  # Generally positive/excitement
-    "trust": "Positive",
-    
-    "neutral": "Neutral",
-    "confusion": "Neutral",
-    "surprise": "Neutral",
-    
-    "sad": "Negative",
-    "angry": "Negative",
+    "sadness": "Negative",
+    "anger": "Negative",
     "fear": "Negative",
-    "disgust": "Negative",
-    "frustration": "Negative"
+    "surprise": "Neutral"
 }
 

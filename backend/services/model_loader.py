@@ -53,7 +53,7 @@ class ModelLoader:
     def load_text_model(self):
         if self.text_model is None:
             try:
-                logger.info("Loading Multilingual 13-Emotion Text Model (via LoRA)...")
+                logger.info("Loading Multilingual 6-Emotion Text Model (via LoRA)...")
                 base_model_name = TEXT_MODEL_CONFIG["base_model_name"]
                 lora_path = TEXT_MODEL_CONFIG["lora_path"]
                 
@@ -66,7 +66,7 @@ class ModelLoader:
                 # 1. Load Base XLM-R
                 base_model = AutoModelForSequenceClassification.from_pretrained(
                     base_model_name,
-                    num_labels=13
+                    num_labels=6
                 )
                 
                 # 2. Inject LoRA Wrappers
